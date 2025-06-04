@@ -1,0 +1,80 @@
+{
+  "title": "Prepositions Quiz",
+  "questions": [
+    {
+      "question": "The cat is ___ the table.",
+      "options": ["on", "in", "at"],
+      "answer": "on"
+    },
+    {
+      "question": "The book is ___ the bag.",
+      "options": ["in", "on", "under"],
+      "answer": "in"
+    },
+    {
+      "question": "She is sitting ___ me and John.",
+      "options": ["between", "next", "under"],
+      "answer": "between"
+    },
+    {
+      "question": "The ball is ___ the box.",
+      "options": ["under", "on", "in"],
+      "answer": "under"
+    },
+    {
+      "question": "We always meet ___ Monday.",
+      "options": ["on", "in", "at"],
+      "answer": "on"
+    },
+    {
+      "question": "He was born ___ 2010.",
+      "options": ["in", "on", "at"],
+      "answer": "in"
+    },
+    {
+      "question": "Let’s meet ___ 5 o’clock.",
+      "options": ["at", "in", "on"],
+      "answer": "at"
+    },
+    {
+      "question": "She goes ___ school by bus.",
+      "options": ["to", "at", "in"],
+      "answer": "to"
+    },
+    {
+      "question": "The keys are ___ the table.",
+      "options": ["on", "in", "under"],
+      "answer": "on"
+    },
+    {
+      "question": "He put the book ___ his bag.",
+      "options": ["into", "in", "onto"],
+      "answer": "into"
+    },
+    {
+      "question": "The kids jumped ___ the bed.",
+      "options": ["onto", "into", "on"],
+      "answer": "onto"
+    },
+    {
+      "question": "The picture is ___ the wall.",
+      "options": ["on", "in", "at"],
+      "answer": "on"
+    },
+    {
+      "question": "He came back ___ the store.",
+      "options": ["from", "to", "at"],
+      "answer": "from"
+    },
+    {
+      "question": "I work ___ the morning.",
+      "options": ["in", "on", "at"],
+      "answer": "in"
+    },
+    {
+      "question": "We arrived ___ the airport early.",
+      "options": ["at", "in", "on"],
+      "answer": "at"
+    }
+  ]
+}

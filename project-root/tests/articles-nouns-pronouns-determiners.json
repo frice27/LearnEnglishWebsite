@@ -1,0 +1,80 @@
+{
+  "title": "Articles, Nouns, Pronouns, and Determiners Quiz",
+  "questions": [
+    {
+      "question": "She is ___ teacher.",
+      "options": ["a", "an", "the"],
+      "answer": "a"
+    },
+    {
+      "question": "I saw ___ elephant at the zoo.",
+      "options": ["a", "an", "the"],
+      "answer": "an"
+    },
+    {
+      "question": "This is ___ book I told you about.",
+      "options": ["a", "an", "the"],
+      "answer": "the"
+    },
+    {
+      "question": "___ is my best friend.",
+      "options": ["He", "They", "We"],
+      "answer": "He"
+    },
+    {
+      "question": "___ name is Sarah.",
+      "options": ["His", "Her", "Their"],
+      "answer": "Her"
+    },
+    {
+      "question": "I have two brothers. ___ names are Tom and Nick.",
+      "options": ["Their", "His", "Our"],
+      "answer": "Their"
+    },
+    {
+      "question": "___ is your favorite color?",
+      "options": ["What", "Who", "Where"],
+      "answer": "What"
+    },
+    {
+      "question": "This is ___ apple.",
+      "options": ["a", "an", "some"],
+      "answer": "an"
+    },
+    {
+      "question": "Do you have ___ water?",
+      "options": ["some", "any", "a"],
+      "answer": "any"
+    },
+    {
+      "question": "We bought ___ bananas.",
+      "options": ["some", "a", "an"],
+      "answer": "some"
+    },
+    {
+      "question": "___ is going to the store?",
+      "options": ["Who", "What", "When"],
+      "answer": "Who"
+    },
+    {
+      "question": "___ car is red and fast.",
+      "options": ["My", "Me", "I"],
+      "answer": "My"
+    },
+    {
+      "question": "These are ___ shoes.",
+      "options": ["our", "we", "us"],
+      "answer": "our"
+    },
+    {
+      "question": "Give ___ the pen, please.",
+      "options": ["me", "I", "my"],
+      "answer": "me"
+    },
+    {
+      "question": "Look at ___ flowers!",
+      "options": ["those", "this", "that"],
+      "answer": "those"
+    }
+  ]
+}

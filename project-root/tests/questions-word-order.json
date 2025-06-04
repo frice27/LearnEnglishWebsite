@@ -1,0 +1,80 @@
+{
+  "title": "Questions: Word Order and Question Words Quiz",
+  "questions": [
+    {
+      "question": "___ are you from?",
+      "options": ["Where", "What", "Who"],
+      "answer": "Where"
+    },
+    {
+      "question": "___ is your name?",
+      "options": ["What", "Who", "Which"],
+      "answer": "What"
+    },
+    {
+      "question": "___ do you get up in the morning?",
+      "options": ["When", "Why", "What"],
+      "answer": "When"
+    },
+    {
+      "question": "___ do you go to school? — By bus.",
+      "options": ["How", "What", "Where"],
+      "answer": "How"
+    },
+    {
+      "question": "___ do you like English? — Because it’s fun.",
+      "options": ["Why", "How", "What"],
+      "answer": "Why"
+    },
+    {
+      "question": "___ does she work?",
+      "options": ["Where", "What", "Who"],
+      "answer": "Where"
+    },
+    {
+      "question": "___ you like pizza?",
+      "options": ["Do", "Are", "Does"],
+      "answer": "Do"
+    },
+    {
+      "question": "___ he play the guitar?",
+      "options": ["Does", "Do", "Is"],
+      "answer": "Does"
+    },
+    {
+      "question": "___ are your friends?",
+      "options": ["Who", "Where", "How"],
+      "answer": "Who"
+    },
+    {
+      "question": "What ___ you doing?",
+      "options": ["are", "do", "is"],
+      "answer": "are"
+    },
+    {
+      "question": "Where ___ he live?",
+      "options": ["does", "do", "is"],
+      "answer": "does"
+    },
+    {
+      "question": "How ___ your mother?",
+      "options": ["is", "are", "does"],
+      "answer": "is"
+    },
+    {
+      "question": "What time ___ the lesson start?",
+      "options": ["does", "do", "is"],
+      "answer": "does"
+    },
+    {
+      "question": "___ you go to the gym on Sundays?",
+      "options": ["Do", "Are", "Have"],
+      "answer": "Do"
+    },
+    {
+      "question": "___ is your favorite color?",
+      "options": ["What", "Where", "Why"],
+      "answer": "What"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Present Tenses Quiz",
+  "questions": [
+    {
+      "question": "He ___ to school every day.",
+      "options": ["go", "goes", "gone"],
+      "answer": "goes"
+    },
+    {
+      "question": "I ___ a student.",
+      "options": ["am", "is", "are"],
+      "answer": "am"
+    },
+    {
+      "question": "They ___ at home now.",
+      "options": ["is", "are", "was"],
+      "answer": "are"
+    },
+    {
+      "question": "She ___ not like coffee.",
+      "options": ["do", "does", "is"],
+      "answer": "does"
+    },
+    {
+      "question": "___ you play the piano?",
+      "options": ["Do", "Does", "Is"],
+      "answer": "Do"
+    },
+    {
+      "question": "The cat ___ under the table.",
+      "options": ["sit", "sits", "sat"],
+      "answer": "sits"
+    },
+    {
+      "question": "John and Mary ___ friends.",
+      "options": ["is", "are", "am"],
+      "answer": "are"
+    },
+    {
+      "question": "We ___ English lessons on Monday.",
+      "options": ["have", "has", "having"],
+      "answer": "have"
+    },
+    {
+      "question": "What ___ she do?",
+      "options": ["do", "does", "is"],
+      "answer": "does"
+    },
+    {
+      "question": "The dog ___ every morning.",
+      "options": ["bark", "barks", "barking"],
+      "answer": "barks"
+    },
+    {
+      "question": "My brother ___ tennis every weekend.",
+      "options": ["play", "plays", "played"],
+      "answer": "plays"
+    },
+    {
+      "question": "We usually ___ breakfast at 8.",
+      "options": ["have", "has", "had"],
+      "answer": "have"
+    },
+    {
+      "question": "She ___ to music in her room.",
+      "options": ["listen", "listens", "listening"],
+      "answer": "listens"
+    },
+    {
+      "question": "They ___ to school on foot.",
+      "options": ["go", "goes", "going"],
+      "answer": "go"
+    },
+    {
+      "question": "You ___ very kind!",
+      "options": ["is", "are", "am"],
+      "answer": "are"
+    }
+  ]
+}

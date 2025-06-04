@@ -1,0 +1,71 @@
+{
+  "level": "A1",
+  "topics": [
+    {
+      "id": "present-tenses",
+      "title": "Present Tenses",
+      "description": "Basic present forms and usage.",
+      "lessonUrl": "grammar-topic.html?topic=present-tenses"
+    },
+    {
+      "id": "past-tenses",
+      "title": "Past Tenses",
+      "description": "How to talk about the past in English.",
+      "lessonUrl": "grammar-topic.html?topic=past-tenses"
+    },
+    {
+      "id": "future",
+      "title": "Future",
+      "description": "Introduction to expressing future time.",
+      "lessonUrl": "grammar-topic.html?topic=future"
+    },
+    {
+      "id": "modals-imperative",
+      "title": "Modals, the Imperative, etc.",
+      "description": "Basic modal verbs and giving instructions.",
+      "lessonUrl": "grammar-topic.html?topic=modals-imperative"
+    },
+    {
+      "id": "ing-infinitive",
+      "title": "-ing and the Infinitive",
+      "description": "When to use -ing forms and infinitives.",
+      "lessonUrl": "grammar-topic.html?topic=ing-infinitive"
+    },
+    {
+      "id": "articles-nouns-pronouns-determiners",
+      "title": "Articles, Nouns, Pronouns, and Determiners",
+      "description": "Using a/an/the and other basic structures.",
+      "lessonUrl": "grammar-topic.html?topic=articles-nouns-pronouns-determiners"
+    },
+    {
+      "id": "there-and-it",
+      "title": "There and It",
+      "description": "Using 'there is/are' and 'it is' structures.",
+      "lessonUrl": "grammar-topic.html?topic=there-and-it"
+    },
+    {
+      "id": "adjectives-and-adverbs",
+      "title": "Adjectives and Adverbs",
+      "description": "Describing things and actions.",
+      "lessonUrl": "grammar-topic.html?topic=adjectives-and-adverbs"
+    },
+    {
+      "id": "conjunctions",
+      "title": "Conjunctions",
+      "description": "Joining ideas with words like 'and', 'but', 'because'.",
+      "lessonUrl": "grammar-topic.html?topic=conjunctions"
+    },
+    {
+      "id": "prepositions",
+      "title": "Prepositions",
+      "description": "Talking about place, time, and movement.",
+      "lessonUrl": "grammar-topic.html?topic=prepositions"
+    },
+    {
+      "id": "questions-word-order",
+      "title": "Questions: Word Order and Question Words",
+      "description": "Forming questions with who, what, where, etc.",
+      "lessonUrl": "grammar-topic.html?topic=questions-word-order"
+    }
+  ]
+}
