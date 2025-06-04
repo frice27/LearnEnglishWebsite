@@ -1,10 +1,182 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>English Journey</title>
+    <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+
+<!-- Navigation -->
+<!-- Navigation -->
+<nav class="navbar">
+    <div class="navbar-left">
+        <a href="index.html">English Journey</a>
+    </div>
+
+    <ul class="navbar-center">
+        <li class="menu-item">
+            <a href="#">Grammar</a>
+            <ul class="submenu">
+                <li><a href="grammar.html?level=a1">A1 Elementary</a></li>
+                <li><a href="grammar.html?level=a2">A2 Pre-Intermediate</a></li>
+                <li><a href="grammar.html?level=b1">B1 Intermediate</a></li>
+                <li><a href="grammar.html?level=b1plus">B1+ Upper-Intermediate</a></li>
+                <li><a href="grammar.html?level=b2">B2 Pre-Advanced</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <a href="#">Vocabulary</a>
+            <ul class="submenu">
+                <li><a href="vocabulary.html?level=a1">A1 Elementary</a></li>
+                <li><a href="vocabulary.html?level=a2">A2 Pre-Intermediate</a></li>
+                <li><a href="vocabulary.html?level=b1">B1 Intermediate</a></li>
+                <li><a href="vocabulary.html?level=b1+">B1+ Upper-Intermediate</a></li>
+                <li><a href="vocabulary.html?level=b2">B2 Pre-Advanced</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <a href="#">Listening</a>
+            <ul class="submenu">
+                <li><a href="listening.html?level=a1">A1 Elementary</a></li>
+                <li><a href="listening.html?level=a2">A2 Pre-Intermediate</a></li>
+                <li><a href="listening.html?level=b1">B1 Intermediate</a></li>
+                <li><a href="listening.html?level=b1+">B1+ Upper-Intermediate</a></li>
+                <li><a href="listening.html?level=b2">B2 Pre-Advanced</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <a href="#">Reading</a>
+            <ul class="submenu">
+                <li><a href="reading.html?level=a1">A1 Elementary</a></li>
+                <li><a href="reading.html?level=a2">A2 Pre-Intermediate</a></li>
+                <li><a href="reading.html?level=b1">B1 Intermediate</a></li>
+                <li><a href="reading.html?level=b1+">B1+ Upper-Intermediate</a></li>
+                <li><a href="reading.html?level=b2">B2 Pre-Advanced</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <a href="#">Use of English</a>
+            <ul class="submenu">
+                <li><a href="useofenglish.html?level=a1">A1 Elementary</a></li>
+                <li><a href="useofenglish.html?level=a2">A2 Pre-Intermediate</a></li>
+                <li><a href="useofenglish.html?level=b1">B1 Intermediate</a></li>
+                <li><a href="useofenglish.html?level=b1+">B1+ Upper-Intermediate</a></li>
+                <li><a href="useofenglish.html?level=b2">B2 Pre-Advanced</a></li>
+            </ul>
+        </li>
+        <li class="menu-item">
+            <a href="#">Writing</a>
+            <ul class="submenu">
+                <li><a href="writing.html?level=a1">A1 Elementary</a></li>
+                <li><a href="writing.html?level=a2">A2 Pre-Intermediate</a></li>
+                <li><a href="writing.html?level=b1">B1 Intermediate</a></li>
+                <li><a href="writing.html?level=b1+">B1+ Upper-Intermediate</a></li>
+                <li><a href="writing.html?level=b2">B2 Pre-Advanced</a></li>
+            </ul>
+        </li>
+    </ul>
+
+    <div class="navbar-right">
+        <button class="login-btn">Login</button>
+    </div>
+</nav>
+
+
+<!-- Hero Section -->
+<header class="hero-dark">
+    <div class="hero-container">
+        <div class="hero-image"></div>
+        <div class="hero-text">
+            <h1>Take your learning with you!</h1>
+            <p>Grammar, listening, reading, writing, and more – all in one journey.</p>
+            <a href="#learn-section" class="start-btn">Start Learning</a>
+        </div>
+    </div>
+</header>
+
+<!-- Learning Section -->
+<section class="learn-section" id="learn-section">
+    <h2 class="section-title">What would you like to <span>learn</span> today?</h2>
+    <div class="card-grid">
+        <!-- Grammar Card -->
+        <div class="card">
+            <img src="images/grammar.jpg" class="card-image" alt="Grammar">
+            <div class="card-content">
+                <h3>Grammar Lessons</h3>
+                <p>Study the grammar lessons for each level. Exercises, explanations, and feedback for every question!</p>
+                <a href="select-grammar.html" class="card-btn">Go to the lessons</a>
+            </div>
+        </div>
+
+        <!-- Vocabulary Card -->
+        <div class="card">
+            <img src="images/vocabulary.jpg" class="card-image" alt="Vocabulary">
+            <div class="card-content">
+                <h3>Vocabulary Lessons</h3>
+                <p>Boost your vocabulary with exercises tailored for each level and interactive feedback.</p>
+                <a href="vocabulary.html" class="card-btn">Go to the lessons</a>
+            </div>
+        </div>
+
+        <!-- Listening Card -->
+        <div class="card">
+            <img src="images/Listening.jpg" class="card-image" alt="Listening">
+            <div class="card-content">
+                <h3>Listening Tests</h3>
+                <p>Practice your listening skills with our audio tests and check transcripts after completing.</p>
+                <a href="listening.html" class="card-btn">Go to the tests</a>
+            </div>
+        </div>
+
+        <!-- Reading Card -->
+        <div class="card">
+            <img src="images/reading.jpg" class="card-image" alt="Reading">
+            <div class="card-content">
+                <h3>Reading Tests</h3>
+                <p>Improve your reading skills through various text types and levels with detailed feedback.</p>
+                <a href="reading.html" class="card-btn">Go to the tests</a>
+            </div>
+        </div>
+
+        <!-- Use of English Card -->
+        <div class="card">
+            <img src="images/useofenglish.jpg" class="card-image" alt="Use of English">
+            <div class="card-content">
+                <h3>Use of English Tests</h3>
+                <p>Check your grammar and vocabulary through mixed tests per level and get immediate feedback.</p>
+                <a href="useofenglish.html" class="card-btn">Go to the tests</a>
+            </div>
+        </div>
+
+        <!-- Writing Card -->
+        <div class="card">
+            <img src="images/writing.jpg" class="card-image" alt="Writing">
+            <div class="card-content">
+                <h3>Writing Lessons</h3>
+                <p>Practice writing compositions by level and improve text structure and expression.</p>
+                <a href="writing.html" class="card-btn">Go to the lessons</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- News Footer -->
+<footer class="news-section">
+    <div class="news-overlay">
+        <h2>Check Latest News</h2>
+        <ul class="news-list">
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250515" target="_blank">Which cooking oil is the best?</a></li>
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250508" target="_blank">Should animals be kept in zoos?</a></li>
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250501" target="_blank">Can cows prevent wildfires?</a></li>
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250424" target="_blank">How climate change affects animal migration</a></li>
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/250417" target="_blank">Can AI solve crime?</a></li>
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/250410" target="_blank">Learning multiple languages</a></li>
+            <li><a href="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/250403" target="_blank">Are we getting more allergic to things?</a></li>
+        </ul>
+    </div>
+</footer>
 
 </body>
 </html>

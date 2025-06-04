@@ -1,0 +1,80 @@
+{
+  "title": "Future Tenses Quiz",
+  "questions": [
+    {
+      "question": "I ___ travel to London next year.",
+      "options": ["will", "am", "do"],
+      "answer": "will"
+    },
+    {
+      "question": "She ___ going to visit her grandma.",
+      "options": ["is", "are", "am"],
+      "answer": "is"
+    },
+    {
+      "question": "They ___ have a party on Saturday.",
+      "options": ["will", "are", "do"],
+      "answer": "will"
+    },
+    {
+      "question": "We ___ going to eat pizza tonight.",
+      "options": ["are", "is", "am"],
+      "answer": "are"
+    },
+    {
+      "question": "He ___ be back at 8 o’clock.",
+      "options": ["will", "is", "are"],
+      "answer": "will"
+    },
+    {
+      "question": "I ___ going to buy a new phone.",
+      "options": ["am", "is", "are"],
+      "answer": "am"
+    },
+    {
+      "question": "Will you ___ the movie with us?",
+      "options": ["watch", "watched", "watching"],
+      "answer": "watch"
+    },
+    {
+      "question": "She ___ going to work tomorrow.",
+      "options": ["is", "are", "am"],
+      "answer": "is"
+    },
+    {
+      "question": "They ___ going on a trip next month.",
+      "options": ["are", "is", "was"],
+      "answer": "are"
+    },
+    {
+      "question": "We ___ meet at 5 p.m.",
+      "options": ["will", "are", "was"],
+      "answer": "will"
+    },
+    {
+      "question": "What time ___ the bus arrive?",
+      "options": ["will", "does", "is"],
+      "answer": "will"
+    },
+    {
+      "question": "I think it ___ rain later.",
+      "options": ["will", "is", "was"],
+      "answer": "will"
+    },
+    {
+      "question": "They ___ going to call you tonight.",
+      "options": ["are", "is", "was"],
+      "answer": "are"
+    },
+    {
+      "question": "He ___ be home soon.",
+      "options": ["will", "am", "are"],
+      "answer": "will"
+    },
+    {
+      "question": "We ___ going shopping this afternoon.",
+      "options": ["are", "is", "am"],
+      "answer": "are"
+    }
+  ]
+}

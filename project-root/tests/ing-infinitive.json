@@ -1,0 +1,80 @@
+{
+  "title": "-ing and the Infinitive Quiz",
+  "questions": [
+    {
+      "question": "I enjoy ___ music.",
+      "options": ["listen", "listening", "to listen"],
+      "answer": "listening"
+    },
+    {
+      "question": "She wants ___ a doctor.",
+      "options": ["being", "to be", "be"],
+      "answer": "to be"
+    },
+    {
+      "question": "He finished ___ his homework.",
+      "options": ["do", "doing", "to do"],
+      "answer": "doing"
+    },
+    {
+      "question": "They decided ___ to the cinema.",
+      "options": ["going", "go", "to go"],
+      "answer": "to go"
+    },
+    {
+      "question": "I like ___ in the morning.",
+      "options": ["run", "running", "to run"],
+      "answer": "running"
+    },
+    {
+      "question": "She needs ___ her room.",
+      "options": ["clean", "to clean", "cleaning"],
+      "answer": "to clean"
+    },
+    {
+      "question": "We hope ___ a new house soon.",
+      "options": ["buy", "to buy", "buying"],
+      "answer": "to buy"
+    },
+    {
+      "question": "He stopped ___ coffee.",
+      "options": ["drink", "to drink", "drinking"],
+      "answer": "drinking"
+    },
+    {
+      "question": "Do you want ___ now?",
+      "options": ["go", "going", "to go"],
+      "answer": "to go"
+    },
+    {
+      "question": "They love ___ games together.",
+      "options": ["playing", "to play", "play"],
+      "answer": "playing"
+    },
+    {
+      "question": "I forgot ___ the window.",
+      "options": ["close", "closing", "to close"],
+      "answer": "to close"
+    },
+    {
+      "question": "Let’s keep ___!",
+      "options": ["work", "working", "to work"],
+      "answer": "working"
+    },
+    {
+      "question": "She prefers ___ tea over coffee.",
+      "options": ["drink", "to drink", "drinking"],
+      "answer": "drinking"
+    },
+    {
+      "question": "He promised ___ me later.",
+      "options": ["calling", "to call", "call"],
+      "answer": "to call"
+    },
+    {
+      "question": "I don't mind ___ the dishes.",
+      "options": ["do", "doing", "to do"],
+      "answer": "doing"
+    }
+  ]
+}

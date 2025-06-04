@@ -1,0 +1,80 @@
+{
+  "title": "Past Tenses Quiz",
+  "questions": [
+    {
+      "question": "I ___ to the store yesterday.",
+      "options": ["go", "went", "gone"],
+      "answer": "went"
+    },
+    {
+      "question": "She ___ a letter last night.",
+      "options": ["writes", "wrote", "written"],
+      "answer": "wrote"
+    },
+    {
+      "question": "They ___ a great movie last weekend.",
+      "options": ["saw", "see", "seen"],
+      "answer": "saw"
+    },
+    {
+      "question": "We ___ at home all day.",
+      "options": ["was", "were", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "He ___ to music before sleeping.",
+      "options": ["listened", "listen", "listens"],
+      "answer": "listened"
+    },
+    {
+      "question": "Did you ___ your homework?",
+      "options": ["do", "did", "done"],
+      "answer": "do"
+    },
+    {
+      "question": "The sun ___ at 7:00 PM.",
+      "options": ["sets", "set", "sat"],
+      "answer": "set"
+    },
+    {
+      "question": "I ___ very tired after work.",
+      "options": ["felt", "feel", "fallen"],
+      "answer": "felt"
+    },
+    {
+      "question": "They ___ their friends last week.",
+      "options": ["meet", "met", "meets"],
+      "answer": "met"
+    },
+    {
+      "question": "She ___ a sandwich for lunch.",
+      "options": ["eats", "ate", "eaten"],
+      "answer": "ate"
+    },
+    {
+      "question": "I ___ the book two days ago.",
+      "options": ["read", "reads", "reading"],
+      "answer": "read"
+    },
+    {
+      "question": "We ___ a lot of fun at the party.",
+      "options": ["had", "have", "has"],
+      "answer": "had"
+    },
+    {
+      "question": "Did he ___ the exam?",
+      "options": ["pass", "passed", "passes"],
+      "answer": "pass"
+    },
+    {
+      "question": "They ___ early this morning.",
+      "options": ["leave", "left", "leaved"],
+      "answer": "left"
+    },
+    {
+      "question": "My parents ___ very happy with the news.",
+      "options": ["was", "were", "are"],
+      "answer": "were"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Adjectives and Adverbs Quiz",
+  "questions": [
+    {
+      "question": "She is a ___ singer.",
+      "options": ["good", "well", "better"],
+      "answer": "good"
+    },
+    {
+      "question": "He runs very ___.",
+      "options": ["quick", "quickly", "quicker"],
+      "answer": "quickly"
+    },
+    {
+      "question": "The weather is ___.",
+      "options": ["badly", "bad", "worse"],
+      "answer": "bad"
+    },
+    {
+      "question": "He speaks English ___.",
+      "options": ["fluent", "fluently", "fluenting"],
+      "answer": "fluently"
+    },
+    {
+      "question": "She is ___ than her sister.",
+      "options": ["taller", "tallest", "more tall"],
+      "answer": "taller"
+    },
+    {
+      "question": "We had a ___ time at the beach.",
+      "options": ["great", "greatly", "greater"],
+      "answer": "great"
+    },
+    {
+      "question": "He drives ___. Be careful!",
+      "options": ["dangerously", "dangerous", "danger"],
+      "answer": "dangerously"
+    },
+    {
+      "question": "That was a ___ question.",
+      "options": ["difficult", "difficultly", "difficulty"],
+      "answer": "difficult"
+    },
+    {
+      "question": "They answered all the questions ___.",
+      "options": ["correct", "correctly", "correction"],
+      "answer": "correctly"
+    },
+    {
+      "question": "She looked at me ___.",
+      "options": ["angry", "angrily", "anger"],
+      "answer": "angrily"
+    },
+    {
+      "question": "He is a very ___ person.",
+      "options": ["kind", "kindly", "kinder"],
+      "answer": "kind"
+    },
+    {
+      "question": "She sings very ___.",
+      "options": ["well", "good", "better"],
+      "answer": "well"
+    },
+    {
+      "question": "They were ___ after the game.",
+      "options": ["happy", "happily", "happiness"],
+      "answer": "happy"
+    },
+    {
+      "question": "You speak French ___.",
+      "options": ["perfect", "perfectly", "perfection"],
+      "answer": "perfectly"
+    },
+    {
+      "question": "He feels ___.",
+      "options": ["bad", "badly", "worse"],
+      "answer": "bad"
+    }
+  ]
+}

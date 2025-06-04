@@ -1,0 +1,80 @@
+{
+  "title": "Conjunctions Quiz",
+  "questions": [
+    {
+      "question": "I like tea ___ coffee.",
+      "options": ["and", "but", "because"],
+      "answer": "and"
+    },
+    {
+      "question": "She was tired, ___ she went to bed early.",
+      "options": ["so", "and", "but"],
+      "answer": "so"
+    },
+    {
+      "question": "He is tall ___ strong.",
+      "options": ["and", "but", "or"],
+      "answer": "and"
+    },
+    {
+      "question": "I want to go out, ___ it's raining.",
+      "options": ["but", "because", "so"],
+      "answer": "but"
+    },
+    {
+      "question": "We stayed home ___ it was cold outside.",
+      "options": ["because", "so", "but"],
+      "answer": "because"
+    },
+    {
+      "question": "Do you want water ___ juice?",
+      "options": ["or", "and", "but"],
+      "answer": "or"
+    },
+    {
+      "question": "He didn't eat, ___ he wasn't hungry.",
+      "options": ["because", "but", "and"],
+      "answer": "because"
+    },
+    {
+      "question": "I have a pen ___ a pencil.",
+      "options": ["and", "or", "because"],
+      "answer": "and"
+    },
+    {
+      "question": "She studied hard, ___ she passed the test.",
+      "options": ["so", "but", "because"],
+      "answer": "so"
+    },
+    {
+      "question": "He is smart ___ lazy.",
+      "options": ["but", "so", "because"],
+      "answer": "but"
+    },
+    {
+      "question": "We can go to the park ___ stay at home.",
+      "options": ["or", "and", "because"],
+      "answer": "or"
+    },
+    {
+      "question": "The boy ran fast, ___ he missed the bus.",
+      "options": ["but", "so", "because"],
+      "answer": "but"
+    },
+    {
+      "question": "___ she was tired, she continued working.",
+      "options": ["Although", "Because", "So"],
+      "answer": "Although"
+    },
+    {
+      "question": "It was sunny ___ we went for a walk.",
+      "options": ["so", "because", "or"],
+      "answer": "so"
+    },
+    {
+      "question": "I can't go out ___ I have to study.",
+      "options": ["because", "but", "so"],
+      "answer": "because"
+    }
+  ]
+}
