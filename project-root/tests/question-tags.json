@@ -1,0 +1,80 @@
+{
+  "title": "Question Tags Quiz",
+  "questions": [
+    {
+      "question": "You’re coming to the party, ___?",
+      "options": ["aren’t you", "don’t you", "won’t you"],
+      "answer": "aren’t you"
+    },
+    {
+      "question": "She doesn’t eat meat, ___?",
+      "options": ["does she", "doesn’t she", "is she"],
+      "answer": "does she"
+    },
+    {
+      "question": "He’s a good singer, ___?",
+      "options": ["isn’t he", "doesn’t he", "was he"],
+      "answer": "isn’t he"
+    },
+    {
+      "question": "They weren’t here yesterday, ___?",
+      "options": ["were they", "weren’t they", "are they"],
+      "answer": "were they"
+    },
+    {
+      "question": "We can go now, ___?",
+      "options": ["can’t we", "won’t we", "don’t we"],
+      "answer": "can’t we"
+    },
+    {
+      "question": "It’s cold today, ___?",
+      "options": ["isn’t it", "does it", "won’t it"],
+      "answer": "isn’t it"
+    },
+    {
+      "question": "You don’t like coffee, ___?",
+      "options": ["do you", "don’t you", "are you"],
+      "answer": "do you"
+    },
+    {
+      "question": "She was late, ___?",
+      "options": ["wasn’t she", "isn’t she", "hasn’t she"],
+      "answer": "wasn’t she"
+    },
+    {
+      "question": "We’ve met before, ___?",
+      "options": ["haven’t we", "didn’t we", "hadn’t we"],
+      "answer": "haven’t we"
+    },
+    {
+      "question": "Tom will help us, ___?",
+      "options": ["won’t he", "will he", "doesn’t he"],
+      "answer": "won’t he"
+    },
+    {
+      "question": "Let’s go, ___?",
+      "options": ["shall we", "will we", "do we"],
+      "answer": "shall we"
+    },
+    {
+      "question": "Nobody called you, ___?",
+      "options": ["did they", "didn’t they", "does they"],
+      "answer": "did they"
+    },
+    {
+      "question": "I’m right, ___?",
+      "options": ["aren’t I", "am I", "don’t I"],
+      "answer": "aren’t I"
+    },
+    {
+      "question": "He has a car, ___?",
+      "options": ["doesn’t he", "hasn’t he", "isn’t he"],
+      "answer": "doesn’t he"
+    },
+    {
+      "question": "You have finished, ___?",
+      "options": ["haven’t you", "didn’t you", "don’t you"],
+      "answer": "haven’t you"
+    }
+  ]
+}

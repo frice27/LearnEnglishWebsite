@@ -1,0 +1,80 @@
+{
+  "title": "Adverbs of Frequency and Manner Quiz",
+  "questions": [
+    {
+      "question": "He ___ goes to the gym on Mondays.",
+      "options": ["always", "alwayss", "neverly"],
+      "answer": "always"
+    },
+    {
+      "question": "She speaks English ___.",
+      "options": ["well", "good", "better"],
+      "answer": "well"
+    },
+    {
+      "question": "We ___ eat dinner at 6 p.m.",
+      "options": ["usually", "usual", "oftenly"],
+      "answer": "usually"
+    },
+    {
+      "question": "They run very ___.",
+      "options": ["fast", "fastly", "quick"],
+      "answer": "fast"
+    },
+    {
+      "question": "I ___ watch TV in the morning.",
+      "options": ["never", "no", "not"],
+      "answer": "never"
+    },
+    {
+      "question": "He plays the piano ___.",
+      "options": ["beautifully", "beautiful", "beauty"],
+      "answer": "beautifully"
+    },
+    {
+      "question": "She is ___ late for work.",
+      "options": ["often", "oftenly", "many times"],
+      "answer": "often"
+    },
+    {
+      "question": "The baby sleeps ___.",
+      "options": ["quietly", "quiet", "quietful"],
+      "answer": "quietly"
+    },
+    {
+      "question": "My father ___ drinks coffee.",
+      "options": ["always", "all time", "every"],
+      "answer": "always"
+    },
+    {
+      "question": "He drives ___. Be careful!",
+      "options": ["dangerously", "danger", "dangerful"],
+      "answer": "dangerously"
+    },
+    {
+      "question": "They ___ go to the cinema.",
+      "options": ["sometimes", "sometime", "somewhen"],
+      "answer": "sometimes"
+    },
+    {
+      "question": "We arrived ___.",
+      "options": ["early", "earlierly", "soon"],
+      "answer": "early"
+    },
+    {
+      "question": "She danced ___.",
+      "options": ["gracefully", "grace", "graceful"],
+      "answer": "gracefully"
+    },
+    {
+      "question": "I ___ forget my keys at home.",
+      "options": ["often", "many", "a lot"],
+      "answer": "often"
+    },
+    {
+      "question": "He answered the question ___.",
+      "options": ["correctly", "correct", "right"],
+      "answer": "correctly"
+    }
+  ]
+}

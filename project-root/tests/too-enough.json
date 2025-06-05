@@ -1,0 +1,80 @@
+{
+  "title": "Too / Enough Quiz",
+  "questions": [
+    {
+      "question": "It’s ___ cold to go outside.",
+      "options": ["too", "enough", "very"],
+      "answer": "too"
+    },
+    {
+      "question": "He isn’t tall ___ to reach the shelf.",
+      "options": ["enough", "too", "much"],
+      "answer": "enough"
+    },
+    {
+      "question": "We have ___ money to buy the tickets.",
+      "options": ["enough", "too", "many"],
+      "answer": "enough"
+    },
+    {
+      "question": "She was ___ tired to continue.",
+      "options": ["too", "enough", "so"],
+      "answer": "too"
+    },
+    {
+      "question": "Is the room big ___ for everyone?",
+      "options": ["enough", "too", "so"],
+      "answer": "enough"
+    },
+    {
+      "question": "That bag is ___ heavy for me to carry.",
+      "options": ["too", "enough", "very"],
+      "answer": "too"
+    },
+    {
+      "question": "He didn’t have ___ time to finish the work.",
+      "options": ["enough", "too", "any"],
+      "answer": "enough"
+    },
+    {
+      "question": "You’re ___ young to drive a car.",
+      "options": ["too", "enough", "very"],
+      "answer": "too"
+    },
+    {
+      "question": "There aren't ___ chairs for everyone.",
+      "options": ["enough", "too", "many"],
+      "answer": "enough"
+    },
+    {
+      "question": "She sings well ___ to be a star.",
+      "options": ["enough", "too", "such"],
+      "answer": "enough"
+    },
+    {
+      "question": "The soup is ___ hot. Wait a bit.",
+      "options": ["too", "enough", "very"],
+      "answer": "too"
+    },
+    {
+      "question": "I’m not strong ___ to lift that box.",
+      "options": ["enough", "too", "much"],
+      "answer": "enough"
+    },
+    {
+      "question": "This jacket is ___ small for me.",
+      "options": ["too", "enough", "so"],
+      "answer": "too"
+    },
+    {
+      "question": "He didn’t speak loudly ___.",
+      "options": ["enough", "too", "much"],
+      "answer": "enough"
+    },
+    {
+      "question": "We had ___ food for the picnic.",
+      "options": ["enough", "too", "many"],
+      "answer": "enough"
+    }
+  ]
+}
