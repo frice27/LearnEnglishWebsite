@@ -1,0 +1,80 @@
+{
+  "title": "Much / Many / A Lot of Quiz",
+  "questions": [
+    {
+      "question": "There aren’t ___ people here.",
+      "options": ["many", "much", "a lot"],
+      "answer": "many"
+    },
+    {
+      "question": "How ___ sugar do you want in your tea?",
+      "options": ["much", "many", "a lot of"],
+      "answer": "much"
+    },
+    {
+      "question": "She has ___ friends in London.",
+      "options": ["a lot of", "much", "any"],
+      "answer": "a lot of"
+    },
+    {
+      "question": "We don’t have ___ time left.",
+      "options": ["much", "many", "a few"],
+      "answer": "much"
+    },
+    {
+      "question": "Do you have ___ questions?",
+      "options": ["many", "much", "a lot of"],
+      "answer": "many"
+    },
+    {
+      "question": "They drink ___ coffee in the morning.",
+      "options": ["a lot of", "many", "much"],
+      "answer": "a lot of"
+    },
+    {
+      "question": "I don’t eat ___ meat.",
+      "options": ["much", "many", "lots"],
+      "answer": "much"
+    },
+    {
+      "question": "We saw ___ birds at the zoo.",
+      "options": ["a lot of", "much", "any"],
+      "answer": "a lot of"
+    },
+    {
+      "question": "How ___ water do you drink every day?",
+      "options": ["much", "many", "a lot of"],
+      "answer": "much"
+    },
+    {
+      "question": "There are too ___ cars on the road.",
+      "options": ["many", "much", "a lot"],
+      "answer": "many"
+    },
+    {
+      "question": "They didn’t eat ___ food.",
+      "options": ["much", "many", "a lot"],
+      "answer": "much"
+    },
+    {
+      "question": "I have ___ work to do today.",
+      "options": ["a lot of", "many", "much"],
+      "answer": "a lot of"
+    },
+    {
+      "question": "He doesn’t have ___ friends.",
+      "options": ["many", "much", "a lot"],
+      "answer": "many"
+    },
+    {
+      "question": "There is ___ noise in this room.",
+      "options": ["a lot of", "many", "few"],
+      "answer": "a lot of"
+    },
+    {
+      "question": "How ___ books do you read a year?",
+      "options": ["many", "much", "a lot"],
+      "answer": "many"
+    }
+  ]
+}

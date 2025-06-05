@@ -1,0 +1,80 @@
+{
+  "title": "Present Perfect Quiz",
+  "questions": [
+    {
+      "question": "I ___ never been to Paris.",
+      "options": ["have", "has", "had"],
+      "answer": "have"
+    },
+    {
+      "question": "She ___ already finished her homework.",
+      "options": ["has", "have", "had"],
+      "answer": "has"
+    },
+    {
+      "question": "___ you ever eaten sushi?",
+      "options": ["Have", "Did", "Do"],
+      "answer": "Have"
+    },
+    {
+      "question": "We ___ lived here since 2020.",
+      "options": ["have", "has", "are"],
+      "answer": "have"
+    },
+    {
+      "question": "He ___ just left the house.",
+      "options": ["has", "have", "did"],
+      "answer": "has"
+    },
+    {
+      "question": "They ___ never seen that movie.",
+      "options": ["have", "has", "did"],
+      "answer": "have"
+    },
+    {
+      "question": "I ___ finished my project.",
+      "options": ["have", "has", "am"],
+      "answer": "have"
+    },
+    {
+      "question": "She ___ not been here before.",
+      "options": ["has", "have", "is"],
+      "answer": "has"
+    },
+    {
+      "question": "We ___ visited the museum recently.",
+      "options": ["have", "has", "did"],
+      "answer": "have"
+    },
+    {
+      "question": "___ he ever played the guitar?",
+      "options": ["Has", "Have", "Did"],
+      "answer": "Has"
+    },
+    {
+      "question": "They ___ already done their homework.",
+      "options": ["have", "has", "are"],
+      "answer": "have"
+    },
+    {
+      "question": "I ___ studied English for three years.",
+      "options": ["have", "has", "had"],
+      "answer": "have"
+    },
+    {
+      "question": "___ you finished yet?",
+      "options": ["Have", "Has", "Do"],
+      "answer": "Have"
+    },
+    {
+      "question": "He ___ never been late before.",
+      "options": ["has", "have", "had"],
+      "answer": "has"
+    },
+    {
+      "question": "We ___ just eaten lunch.",
+      "options": ["have", "has", "did"],
+      "answer": "have"
+    }
+  ]
+}

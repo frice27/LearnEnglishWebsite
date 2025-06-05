@@ -1,0 +1,80 @@
+{
+  "title": "Relative Clauses: Who / Which / That Quiz",
+  "questions": [
+    {
+      "question": "The man ___ lives next door is a doctor.",
+      "options": ["who", "which", "that"],
+      "answer": "who"
+    },
+    {
+      "question": "I have a book ___ explains everything.",
+      "options": ["that", "who", "whose"],
+      "answer": "that"
+    },
+    {
+      "question": "The woman ___ helped me was very kind.",
+      "options": ["who", "which", "that"],
+      "answer": "who"
+    },
+    {
+      "question": "This is the car ___ I bought last year.",
+      "options": ["that", "who", "which"],
+      "answer": "that"
+    },
+    {
+      "question": "He’s the teacher ___ teaches English.",
+      "options": ["who", "which", "that"],
+      "answer": "who"
+    },
+    {
+      "question": "I have a friend ___ speaks five languages.",
+      "options": ["who", "which", "that"],
+      "answer": "who"
+    },
+    {
+      "question": "The film ___ we watched was amazing.",
+      "options": ["that", "who", "which"],
+      "answer": "that"
+    },
+    {
+      "question": "She wore a dress ___ was blue.",
+      "options": ["which", "who", "that"],
+      "answer": "which"
+    },
+    {
+      "question": "The people ___ live here are very friendly.",
+      "options": ["who", "which", "that"],
+      "answer": "who"
+    },
+    {
+      "question": "The phone ___ is on the table is new.",
+      "options": ["that", "who", "whose"],
+      "answer": "that"
+    },
+    {
+      "question": "The girl ___ won the race is my cousin.",
+      "options": ["who", "that", "which"],
+      "answer": "who"
+    },
+    {
+      "question": "This is the song ___ I told you about.",
+      "options": ["that", "who", "which"],
+      "answer": "that"
+    },
+    {
+      "question": "He met a woman ___ works in London.",
+      "options": ["who", "which", "that"],
+      "answer": "who"
+    },
+    {
+      "question": "We visited a museum ___ had old paintings.",
+      "options": ["which", "who", "that"],
+      "answer": "which"
+    },
+    {
+      "question": "She saw a bird ___ was very colorful.",
+      "options": ["that", "who", "which"],
+      "answer": "that"
+    }
+  ]
+}

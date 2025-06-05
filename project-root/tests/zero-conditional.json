@@ -1,0 +1,80 @@
+{
+  "title": "Zero Conditional Quiz",
+  "questions": [
+    {
+      "question": "If you heat ice, it ___.",
+      "options": ["melts", "melt", "will melt"],
+      "answer": "melts"
+    },
+    {
+      "question": "If you touch fire, you ___.",
+      "options": ["get burned", "got burned", "gets burned"],
+      "answer": "get burned"
+    },
+    {
+      "question": "Water boils if you ___ it to 100°C.",
+      "options": ["heat", "heats", "heated"],
+      "answer": "heat"
+    },
+    {
+      "question": "If students study, they ___ good grades.",
+      "options": ["get", "gets", "got"],
+      "answer": "get"
+    },
+    {
+      "question": "If the sun shines, it ___ warm.",
+      "options": ["is", "be", "was"],
+      "answer": "is"
+    },
+    {
+      "question": "If you mix red and blue, you ___ purple.",
+      "options": ["get", "got", "gets"],
+      "answer": "get"
+    },
+    {
+      "question": "If it rains, the grass ___.",
+      "options": ["grows", "grow", "grew"],
+      "answer": "grows"
+    },
+    {
+      "question": "If babies are tired, they ___.",
+      "options": ["sleep", "slept", "sleeps"],
+      "answer": "sleep"
+    },
+    {
+      "question": "People ___ weight if they eat too much.",
+      "options": ["gain", "gains", "gained"],
+      "answer": "gain"
+    },
+    {
+      "question": "If you don’t water plants, they ___.",
+      "options": ["die", "dies", "died"],
+      "answer": "die"
+    },
+    {
+      "question": "If I drink coffee at night, I ___ sleep.",
+      "options": ["can’t", "couldn’t", "don’t"],
+      "answer": "can’t"
+    },
+    {
+      "question": "If you drop glass, it ___.",
+      "options": ["breaks", "broke", "breaking"],
+      "answer": "breaks"
+    },
+    {
+      "question": "If dogs are hungry, they ___.",
+      "options": ["bark", "barks", "barked"],
+      "answer": "bark"
+    },
+    {
+      "question": "If children are bored, they ___.",
+      "options": ["complain", "complains", "complained"],
+      "answer": "complain"
+    },
+    {
+      "question": "If I feel sick, I ___ the doctor.",
+      "options": ["call", "calls", "called"],
+      "answer": "call"
+    }
+  ]
+}

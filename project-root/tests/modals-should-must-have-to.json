@@ -1,0 +1,80 @@
+{
+  "title": "Modals: Must / Have to / Should Quiz",
+  "questions": [
+    {
+      "question": "You ___ wear a seatbelt while driving.",
+      "options": ["must", "should", "can"],
+      "answer": "must"
+    },
+    {
+      "question": "I ___ go to the dentist. I have a toothache.",
+      "options": ["have to", "should", "mustn't"],
+      "answer": "have to"
+    },
+    {
+      "question": "You ___ eat more vegetables. They’re good for you.",
+      "options": ["should", "must", "have to"],
+      "answer": "should"
+    },
+    {
+      "question": "Students ___ bring their books to class every day.",
+      "options": ["must", "should", "may"],
+      "answer": "must"
+    },
+    {
+      "question": "You ___ smoke here. It’s forbidden.",
+      "options": ["mustn't", "don’t have to", "shouldn’t"],
+      "answer": "mustn't"
+    },
+    {
+      "question": "She ___ take an umbrella. It’s going to rain.",
+      "options": ["should", "must", "can"],
+      "answer": "should"
+    },
+    {
+      "question": "We ___ hurry or we’ll miss the bus!",
+      "options": ["must", "should", "might"],
+      "answer": "must"
+    },
+    {
+      "question": "You ___ pay now. It’s free.",
+      "options": ["don’t have to", "must", "should"],
+      "answer": "don’t have to"
+    },
+    {
+      "question": "He ___ wear a uniform at work.",
+      "options": ["has to", "should", "mustn’t"],
+      "answer": "has to"
+    },
+    {
+      "question": "I think you ___ see a doctor.",
+      "options": ["should", "must", "have to"],
+      "answer": "should"
+    },
+    {
+      "question": "They ___ be quiet during the test.",
+      "options": ["must", "can", "should"],
+      "answer": "must"
+    },
+    {
+      "question": "We ___ leave now if we want to catch the train.",
+      "options": ["have to", "should", "mustn’t"],
+      "answer": "have to"
+    },
+    {
+      "question": "You ___ bring your ID to enter the building.",
+      "options": ["must", "should", "might"],
+      "answer": "must"
+    },
+    {
+      "question": "You ___ eat so much sugar. It's not healthy.",
+      "options": ["shouldn’t", "must", "have to"],
+      "answer": "shouldn’t"
+    },
+    {
+      "question": "Do we ___ wear special shoes for gym class?",
+      "options": ["have to", "must", "should"],
+      "answer": "have to"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Reflexive Pronouns Quiz",
+  "questions": [
+    {
+      "question": "I cut ___ while cooking.",
+      "options": ["myself", "me", "mine"],
+      "answer": "myself"
+    },
+    {
+      "question": "She looked at ___ in the mirror.",
+      "options": ["herself", "her", "she"],
+      "answer": "herself"
+    },
+    {
+      "question": "He hurt ___ playing football.",
+      "options": ["himself", "him", "his"],
+      "answer": "himself"
+    },
+    {
+      "question": "We enjoyed ___ at the party.",
+      "options": ["ourselves", "us", "our"],
+      "answer": "ourselves"
+    },
+    {
+      "question": "They introduced ___ to the new teacher.",
+      "options": ["themselves", "them", "their"],
+      "answer": "themselves"
+    },
+    {
+      "question": "Did you do this all by ___?",
+      "options": ["yourself", "you", "yours"],
+      "answer": "yourself"
+    },
+    {
+      "question": "The cat washed ___.",
+      "options": ["itself", "it", "its"],
+      "answer": "itself"
+    },
+    {
+      "question": "We built the house ___.",
+      "options": ["ourselves", "ourself", "we"],
+      "answer": "ourselves"
+    },
+    {
+      "question": "She taught ___ how to play piano.",
+      "options": ["herself", "her", "hers"],
+      "answer": "herself"
+    },
+    {
+      "question": "He blamed ___ for the mistake.",
+      "options": ["himself", "him", "his"],
+      "answer": "himself"
+    },
+    {
+      "question": "You should be proud of ___.",
+      "options": ["yourself", "you", "yours"],
+      "answer": "yourself"
+    },
+    {
+      "question": "I wrote the whole essay by ___.",
+      "options": ["myself", "me", "mine"],
+      "answer": "myself"
+    },
+    {
+      "question": "They made dinner by ___.",
+      "options": ["themselves", "them", "their"],
+      "answer": "themselves"
+    },
+    {
+      "question": "We cleaned the room ___.",
+      "options": ["ourselves", "us", "our"],
+      "answer": "ourselves"
+    },
+    {
+      "question": "My brother fixed his bike by ___.",
+      "options": ["himself", "him", "his"],
+      "answer": "himself"
+    }
+  ]
+}
