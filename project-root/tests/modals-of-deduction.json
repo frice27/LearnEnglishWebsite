@@ -1,0 +1,95 @@
+{
+  "title": "Modals of Deduction (must, might, can’t)",
+  "questions": [
+    {
+      "question": "He looks very tired. He ___ been working all night.",
+      "options": ["must have", "might have", "can’t have"],
+      "answer": "must have",
+      "explanation": "'Must have' is used for logical conclusions based on evidence."
+    },
+    {
+      "question": "She ___ be at home. Her car is not in the driveway.",
+      "options": ["can’t", "must", "might"],
+      "answer": "can’t",
+      "explanation": "'Can’t' is used when we are sure something is impossible."
+    },
+    {
+      "question": "It ___ rain later, but I’m not sure.",
+      "options": ["might", "must", "can’t"],
+      "answer": "might",
+      "explanation": "'Might' is used when something is possible but uncertain."
+    },
+    {
+      "question": "He ___ be the new teacher. He just introduced himself.",
+      "options": ["must", "might", "can’t"],
+      "answer": "must",
+      "explanation": "'Must' is used for something that is very likely true."
+    },
+    {
+      "question": "They ___ have forgotten about the meeting. It's unusual for them.",
+      "options": ["can’t", "might", "must"],
+      "answer": "can’t",
+      "explanation": "'Can’t have' is used when we are sure something didn’t happen."
+    },
+    {
+      "question": "I’m not sure where she is. She ___ be in the library.",
+      "options": ["might", "must", "can’t"],
+      "answer": "might",
+      "explanation": "'Might' indicates possibility."
+    },
+    {
+      "question": "This ___ be your book. It has your name on it.",
+      "options": ["must", "might", "can’t"],
+      "answer": "must",
+      "explanation": "'Must' for certainty based on strong evidence."
+    },
+    {
+      "question": "He ___ have seen us. He walked straight past without saying anything.",
+      "options": ["can’t", "must", "might"],
+      "answer": "can’t",
+      "explanation": "'Can’t have' when you're sure something didn’t happen."
+    },
+    {
+      "question": "You ___ have left your keys at home. Check your bag again.",
+      "options": ["might", "must", "can’t"],
+      "answer": "might",
+      "explanation": "'Might have' for uncertain past possibility."
+    },
+    {
+      "question": "This ___ be the right answer. It fits perfectly.",
+      "options": ["must", "might", "can’t"],
+      "answer": "must",
+      "explanation": "'Must' expresses strong certainty."
+    },
+    {
+      "question": "She ___ be over 50. She looks very young.",
+      "options": ["can’t", "must", "might"],
+      "answer": "can’t",
+      "explanation": "'Can’t' is used when something is clearly not true."
+    },
+    {
+      "question": "He ___ be at work. His car is parked outside.",
+      "options": ["must", "can’t", "might"],
+      "answer": "must",
+      "explanation": "Logical conclusion with strong evidence."
+    },
+    {
+      "question": "They ___ have heard the announcement. They look confused.",
+      "options": ["might not", "must", "can’t"],
+      "answer": "might not",
+      "explanation": "'Might not have' expresses uncertainty in the past."
+    },
+    {
+      "question": "This noise ___ be the wind. The window is open.",
+      "options": ["must", "might", "can’t"],
+      "answer": "might",
+      "explanation": "It’s possible but not certain."
+    },
+    {
+      "question": "She ___ be sleeping now. The lights are off.",
+      "options": ["must", "can’t", "might"],
+      "answer": "must",
+      "explanation": "Strong logical guess based on evidence."
+    }
+  ]
+}
