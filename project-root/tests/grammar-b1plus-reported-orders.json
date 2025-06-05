@@ -1,0 +1,95 @@
+{
+  "title": "Reported Orders and Requests",
+  "questions": [
+    {
+      "question": "He told me ___ quiet.",
+      "options": ["to be", "be", "being"],
+      "answer": "to be",
+      "explanation": "Reported order = told + person + to + base verb."
+    },
+    {
+      "question": "She asked me ___ the window.",
+      "options": ["to close", "close", "closing"],
+      "answer": "to close",
+      "explanation": "Reported request = asked + person + to + verb."
+    },
+    {
+      "question": "The teacher told us ___ our homework.",
+      "options": ["to do", "do", "doing"],
+      "answer": "to do",
+      "explanation": "'Told us to do' — reported imperative form."
+    },
+    {
+      "question": "My mom asked me ___ my room.",
+      "options": ["to clean", "clean", "cleaning"],
+      "answer": "to clean",
+      "explanation": "Use infinitive with 'ask someone to...'"
+    },
+    {
+      "question": "They told us ___ our phones off.",
+      "options": ["to turn", "turn", "turning"],
+      "answer": "to turn",
+      "explanation": "Reported order uses 'told us to'."
+    },
+    {
+      "question": "She told him not ___ late again.",
+      "options": ["to be", "be", "being"],
+      "answer": "to be",
+      "explanation": "Negative order: 'told + not to be'."
+    },
+    {
+      "question": "I asked her ___ me with the task.",
+      "options": ["to help", "help", "helping"],
+      "answer": "to help",
+      "explanation": "Reported request — 'asked her to help'."
+    },
+    {
+      "question": "He told me ___ down.",
+      "options": ["to sit", "sit", "sitting"],
+      "answer": "to sit",
+      "explanation": "'Told me to sit' — imperative reported speech."
+    },
+    {
+      "question": "She asked him ___ more slowly.",
+      "options": ["to speak", "speaking", "speak"],
+      "answer": "to speak",
+      "explanation": "Request with 'ask someone to'."
+    },
+    {
+      "question": "They asked us not ___ in the hallways.",
+      "options": ["to run", "run", "running"],
+      "answer": "to run",
+      "explanation": "Negative reported request."
+    },
+    {
+      "question": "My boss told me ___ harder.",
+      "options": ["to work", "working", "work"],
+      "answer": "to work",
+      "explanation": "Use infinitive after 'told me'."
+    },
+    {
+      "question": "He told her ___ the music down.",
+      "options": ["to turn", "turning", "turn"],
+      "answer": "to turn",
+      "explanation": "Standard reported command structure."
+    },
+    {
+      "question": "The policeman told them ___ here.",
+      "options": ["not to park", "to not park", "don’t park"],
+      "answer": "not to park",
+      "explanation": "Correct form for negative order: 'not to park'."
+    },
+    {
+      "question": "She asked me ___ the door.",
+      "options": ["to open", "opening", "open"],
+      "answer": "to open",
+      "explanation": "Reported polite request."
+    },
+    {
+      "question": "He told me ___ anything until he arrived.",
+      "options": ["not to say", "to not say", "don’t say"],
+      "answer": "not to say",
+      "explanation": "Negative imperative in reported speech."
+    }
+  ]
+}

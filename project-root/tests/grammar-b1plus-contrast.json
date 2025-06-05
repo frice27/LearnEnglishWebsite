@@ -1,0 +1,95 @@
+{
+  "title": "Contrast: Although / In spite of / However",
+  "questions": [
+    {
+      "question": "___ it was raining, we went for a walk.",
+      "options": ["Although", "In spite of", "However"],
+      "answer": "Although",
+      "explanation": "Use 'Although' + subject + verb."
+    },
+    {
+      "question": "In spite of ___ tired, he continued working.",
+      "options": ["being", "was", "be"],
+      "answer": "being",
+      "explanation": "After 'in spite of' we use a noun or gerund (-ing form)."
+    },
+    {
+      "question": "He studied a lot. ___, he didn’t pass the test.",
+      "options": ["However", "Although", "Because"],
+      "answer": "However",
+      "explanation": "'However' is used at the beginning of a contrast sentence."
+    },
+    {
+      "question": "___ her efforts, she failed the interview.",
+      "options": ["In spite of", "Although", "Even though"],
+      "answer": "In spite of",
+      "explanation": "'In spite of' is followed by a noun or noun phrase."
+    },
+    {
+      "question": "___ she was tired, she kept running.",
+      "options": ["Although", "Despite", "Because"],
+      "answer": "Although",
+      "explanation": "'Although' introduces a full clause with subject + verb."
+    },
+    {
+      "question": "___ the traffic, we arrived on time.",
+      "options": ["Despite", "Although", "Even though"],
+      "answer": "Despite",
+      "explanation": "'Despite' is followed by a noun or gerund."
+    },
+    {
+      "question": "They were late. ___, the meeting started on time.",
+      "options": ["However", "Although", "In spite"],
+      "answer": "However",
+      "explanation": "Used to contrast two separate sentences."
+    },
+    {
+      "question": "___ the cold weather, he wore only a T-shirt.",
+      "options": ["In spite of", "Although", "Because of"],
+      "answer": "In spite of",
+      "explanation": "'In spite of' + noun."
+    },
+    {
+      "question": "___ being young, she is very responsible.",
+      "options": ["Despite", "Although", "Even though"],
+      "answer": "Despite",
+      "explanation": "'Despite' can be followed by a gerund."
+    },
+    {
+      "question": "He didn’t win the race. ___, he was happy.",
+      "options": ["However", "Although", "Because"],
+      "answer": "However",
+      "explanation": "'However' introduces a contrast with the previous sentence."
+    },
+    {
+      "question": "___ the noise, I managed to sleep.",
+      "options": ["Despite", "Although", "Even though"],
+      "answer": "Despite",
+      "explanation": "'Despite' is used with a noun or noun phrase."
+    },
+    {
+      "question": "___ she tried hard, she didn’t succeed.",
+      "options": ["Although", "Because", "Despite"],
+      "answer": "Although",
+      "explanation": "Use 'although' before subject + verb."
+    },
+    {
+      "question": "He was hungry. ___, he didn’t eat.",
+      "options": ["However", "Although", "Even though"],
+      "answer": "However",
+      "explanation": "Separate contrast using 'however'."
+    },
+    {
+      "question": "___ the rain, the match continued.",
+      "options": ["Despite", "Although", "Because of"],
+      "answer": "Despite",
+      "explanation": "Use 'despite' + noun."
+    },
+    {
+      "question": "___ being rich, he lives simply.",
+      "options": ["In spite of", "Although", "Because"],
+      "answer": "In spite of",
+      "explanation": "'In spite of' followed by gerund or noun."
+    }
+  ]
+}
