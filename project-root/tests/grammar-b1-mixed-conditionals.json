@@ -1,0 +1,95 @@
+{
+  "title": "Mixed Conditionals",
+  "questions": [
+    {
+      "question": "If I had studied harder, I ___ at university now.",
+      "options": ["would be", "would have been", "am"],
+      "answer": "would be",
+      "explanation": "This is a past condition with a present result (3rd + 2nd)."
+    },
+    {
+      "question": "If she were taller, she ___ joined the basketball team last year.",
+      "options": ["would have", "would have been", "will have"],
+      "answer": "would have",
+      "explanation": "Present condition, past result (2nd + 3rd)."
+    },
+    {
+      "question": "If we hadn’t missed the train, we ___ at the party now.",
+      "options": ["would be", "would have been", "are"],
+      "answer": "would be",
+      "explanation": "Past condition, present result (3rd + 2nd)."
+    },
+    {
+      "question": "If he were more organized, he ___ forgotten the meeting yesterday.",
+      "options": ["wouldn’t have", "won’t have", "wouldn’t"],
+      "answer": "wouldn’t have",
+      "explanation": "Present condition, past result."
+    },
+    {
+      "question": "I would call her if I ___ her number.",
+      "options": ["had", "have had", "had had"],
+      "answer": "had",
+      "explanation": "Present condition (2nd conditional)."
+    },
+    {
+      "question": "If they hadn’t argued so much, they ___ happier now.",
+      "options": ["would be", "will be", "are"],
+      "answer": "would be",
+      "explanation": "Past condition, present result (mixed)."
+    },
+    {
+      "question": "She would have passed the exam if she ___ more confident.",
+      "options": ["had been", "were", "was"],
+      "answer": "had been",
+      "explanation": "Past condition, past result (3rd conditional)."
+    },
+    {
+      "question": "If I ___ you, I would have taken that job offer.",
+      "options": ["were", "am", "was"],
+      "answer": "were",
+      "explanation": "Present unreal condition (hypothetical)."
+    },
+    {
+      "question": "If you had told me earlier, I ___ helped you.",
+      "options": ["would have", "would", "will have"],
+      "answer": "would have",
+      "explanation": "3rd conditional — past condition and past result."
+    },
+    {
+      "question": "If she had moved to Spain, she ___ fluent in Spanish now.",
+      "options": ["would be", "would have been", "is"],
+      "answer": "would be",
+      "explanation": "Past condition, present result."
+    },
+    {
+      "question": "They ___ gone on the trip if they had saved enough money.",
+      "options": ["would have", "would", "had"],
+      "answer": "would have",
+      "explanation": "3rd conditional — past/past."
+    },
+    {
+      "question": "If I knew his email, I ___ sent him the invitation.",
+      "options": ["would have", "will have", "would"],
+      "answer": "would have",
+      "explanation": "Present condition, past result (mixed)."
+    },
+    {
+      "question": "He wouldn’t be so tired if he ___ to bed earlier last night.",
+      "options": ["had gone", "went", "would go"],
+      "answer": "had gone",
+      "explanation": "Past condition, present result (3rd + 2nd)."
+    },
+    {
+      "question": "If they were more careful, they ___ lost their passports.",
+      "options": ["wouldn’t have", "won’t have", "didn’t have"],
+      "answer": "wouldn’t have",
+      "explanation": "Present condition, past result."
+    },
+    {
+      "question": "If we had taken a taxi, we ___ at the cinema by now.",
+      "options": ["would be", "are", "were"],
+      "answer": "would be",
+      "explanation": "Past condition, present result."
+    }
+  ]
+}

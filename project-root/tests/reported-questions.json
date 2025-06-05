@@ -1,0 +1,95 @@
+{
+  "title": "Reported Questions",
+  "questions": [
+    {
+      "question": "She asked, 'Where do you live?' → She asked where I ___.",
+      "options": ["lived", "live", "was living"],
+      "answer": "lived",
+      "explanation": "Present simple in direct questions becomes past simple."
+    },
+    {
+      "question": "He asked, 'What are you doing?' → He asked what I ___ doing.",
+      "options": ["was", "am", "were"],
+      "answer": "was",
+      "explanation": "Present continuous becomes past continuous."
+    },
+    {
+      "question": "They asked, 'Did you see the movie?' → They asked if I ___ the movie.",
+      "options": ["had seen", "saw", "have seen"],
+      "answer": "had seen",
+      "explanation": "Past simple becomes past perfect in reported questions."
+    },
+    {
+      "question": "She asked, 'Can you help me?' → She asked if I ___ help her.",
+      "options": ["could", "can", "would"],
+      "answer": "could",
+      "explanation": "'Can' becomes 'could' in reported speech."
+    },
+    {
+      "question": "He asked, 'Have you finished your homework?' → He asked if I ___ my homework.",
+      "options": ["had finished", "have finished", "finished"],
+      "answer": "had finished",
+      "explanation": "Present perfect becomes past perfect."
+    },
+    {
+      "question": "They asked, 'Where did you go?' → They asked where I ___ .",
+      "options": ["had gone", "went", "have gone"],
+      "answer": "had gone",
+      "explanation": "Past simple becomes past perfect in reported questions."
+    },
+    {
+      "question": "She asked, 'Why are you crying?' → She asked why I ___ crying.",
+      "options": ["was", "am", "were"],
+      "answer": "was",
+      "explanation": "Present continuous → past continuous."
+    },
+    {
+      "question": "He asked, 'Will you be there?' → He asked if I ___ be there.",
+      "options": ["would", "will", "can"],
+      "answer": "would",
+      "explanation": "'Will' becomes 'would'."
+    },
+    {
+      "question": "They asked, 'What time does it start?' → They asked what time it ___.",
+      "options": ["started", "starts", "had started"],
+      "answer": "started",
+      "explanation": "Present simple becomes past simple."
+    },
+    {
+      "question": "I asked, 'Where is the station?' → I asked where the station ___ .",
+      "options": ["was", "is", "has been"],
+      "answer": "was",
+      "explanation": "'Is' becomes 'was'."
+    },
+    {
+      "question": "He asked, 'Do you like coffee?' → He asked if I ___ coffee.",
+      "options": ["liked", "like", "was liking"],
+      "answer": "liked",
+      "explanation": "Present simple → past simple."
+    },
+    {
+      "question": "She asked, 'When will you arrive?' → She asked when I ___ arrive.",
+      "options": ["would", "will", "can"],
+      "answer": "would",
+      "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+      "question": "They asked, 'Are you okay?' → They asked if I ___ okay.",
+      "options": ["was", "am", "were"],
+      "answer": "was",
+      "explanation": "Present simple of 'be' → past simple."
+    },
+    {
+      "question": "He asked, 'What have you done?' → He asked what I ___ done.",
+      "options": ["had", "have", "did"],
+      "answer": "had",
+      "explanation": "Present perfect → past perfect."
+    },
+    {
+      "question": "She asked, 'Could you open the window?' → She asked if I ___ open the window.",
+      "options": ["could", "can", "will"],
+      "answer": "could",
+      "explanation": "'Could' usually stays the same in reported speech."
+    }
+  ]
+}

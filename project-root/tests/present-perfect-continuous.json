@@ -1,0 +1,95 @@
+{
+  "title": "Present Perfect Continuous",
+  "questions": [
+    {
+      "question": "I ___ studying English for three years.",
+      "options": ["am", "have been", "was"],
+      "answer": "have been",
+      "explanation": "Use 'have/has been + verb-ing' in present perfect continuous."
+    },
+    {
+      "question": "She ___ working here since 2020.",
+      "options": ["has been", "is", "was"],
+      "answer": "has been",
+      "explanation": "With 'she', we use 'has been'."
+    },
+    {
+      "question": "They ___ playing football all morning.",
+      "options": ["have", "have been", "had been"],
+      "answer": "have been",
+      "explanation": "Use 'have been' for plural subjects."
+    },
+    {
+      "question": "He looks tired. He ___ running.",
+      "options": ["was", "has been", "have been"],
+      "answer": "has been",
+      "explanation": "Present perfect continuous explains recent actions with visible results."
+    },
+    {
+      "question": "We ___ waiting for over an hour.",
+      "options": ["have been", "are", "were"],
+      "answer": "have been",
+      "explanation": "'We' takes 'have been'."
+    },
+    {
+      "question": "How long ___ you been studying Spanish?",
+      "options": ["have", "has", "had"],
+      "answer": "have",
+      "explanation": "'You' uses 'have'."
+    },
+    {
+      "question": "It ___ raining since morning.",
+      "options": ["has been", "have been", "is"],
+      "answer": "has been",
+      "explanation": "Use 'has been' with singular subjects like 'it'."
+    },
+    {
+      "question": "They ___ working hard on the project recently.",
+      "options": ["have been", "are", "has been"],
+      "answer": "have been",
+      "explanation": "Recently + 'have been + ing' = present perfect continuous."
+    },
+    {
+      "question": "I ___ thinking about changing my job.",
+      "options": ["have been", "had been", "am"],
+      "answer": "have been",
+      "explanation": "Use 'have been' + -ing for ongoing thought processes."
+    },
+    {
+      "question": "He ___ learning French for a year.",
+      "options": ["has been", "have been", "was"],
+      "answer": "has been",
+      "explanation": "Use 'has been' for 'he/she/it'."
+    },
+    {
+      "question": "She ___ not been sleeping well lately.",
+      "options": ["has", "have", "has"],
+      "answer": "has",
+      "explanation": "'Has not been' is the negative form."
+    },
+    {
+      "question": "We ___ been watching the show all weekend.",
+      "options": ["have", "had", "are"],
+      "answer": "have",
+      "explanation": "Use 'have been' for 'we'."
+    },
+    {
+      "question": "What ___ you been doing today?",
+      "options": ["have", "has", "did"],
+      "answer": "have",
+      "explanation": "Present perfect continuous: What have you been doing?"
+    },
+    {
+      "question": "My parents ___ been renovating the house.",
+      "options": ["have", "has", "had"],
+      "answer": "have",
+      "explanation": "'Parents' = plural, so use 'have been'."
+    },
+    {
+      "question": "She ___ been reading that book for weeks.",
+      "options": ["has", "have", "had"],
+      "answer": "has",
+      "explanation": "Use 'has been' with 'she'."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Second Conditional",
+  "questions": [
+    {
+      "question": "If I ___ a bird, I would fly around the world.",
+      "options": ["am", "were", "was"],
+      "answer": "were",
+      "explanation": "We use 'were' with all subjects in the second conditional."
+    },
+    {
+      "question": "She would travel more if she ___ more money.",
+      "options": ["has", "had", "have"],
+      "answer": "had",
+      "explanation": "Use past simple after 'if'."
+    },
+    {
+      "question": "If it ___ warmer, we would go swimming.",
+      "options": ["is", "was", "were"],
+      "answer": "were",
+      "explanation": "'Were' is correct in second conditional for hypothetical situations."
+    },
+    {
+      "question": "I would buy that dress if it ___ cheaper.",
+      "options": ["is", "were", "would be"],
+      "answer": "were",
+      "explanation": "The correct structure is 'if + past simple'."
+    },
+    {
+      "question": "If I ___ you, I would study more.",
+      "options": ["am", "was", "were"],
+      "answer": "were",
+      "explanation": "Use 'were' with 'I' in unreal conditional structures."
+    },
+    {
+      "question": "If he knew the answer, he ___ tell you.",
+      "options": ["will", "would", "can"],
+      "answer": "would",
+      "explanation": "'Would' is used in the result clause of second conditional."
+    },
+    {
+      "question": "They would be upset if we ___ late.",
+      "options": ["are", "were", "be"],
+      "answer": "were",
+      "explanation": "Use past simple after 'if'."
+    },
+    {
+      "question": "If she ___ harder, she would pass the exam.",
+      "options": ["studies", "study", "studied"],
+      "answer": "studied",
+      "explanation": "'Studied' is the past simple form."
+    },
+    {
+      "question": "Would you go to the party if you ___ invited?",
+      "options": ["are", "were", "will be"],
+      "answer": "were",
+      "explanation": "The correct form is 'if you were invited'."
+    },
+    {
+      "question": "If we ___ a car, we would drive to the beach.",
+      "options": ["have", "had", "would have"],
+      "answer": "had",
+      "explanation": "'Had' is the past simple form for second conditional."
+    },
+    {
+      "question": "What would you do if you ___ the lottery?",
+      "options": ["win", "won", "would win"],
+      "answer": "won",
+      "explanation": "Past simple is needed after 'if'."
+    },
+    {
+      "question": "He wouldn't be so tired if he ___ earlier.",
+      "options": ["goes to bed", "went to bed", "go to bed"],
+      "answer": "went to bed",
+      "explanation": "Use past simple in the if-clause."
+    },
+    {
+      "question": "If I didn't have to work, I ___ travel more.",
+      "options": ["would", "can", "will"],
+      "answer": "would",
+      "explanation": "'Would' is used in the main clause."
+    },
+    {
+      "question": "She would help if she ___ the time.",
+      "options": ["has", "had", "have"],
+      "answer": "had",
+      "explanation": "'Had' is correct in second conditional."
+    },
+    {
+      "question": "If it ___ snowing, we would build a snowman.",
+      "options": ["is", "was", "were"],
+      "answer": "were",
+      "explanation": "'Were' is used for unreal/hypothetical situations."
+    }
+  ]
+}

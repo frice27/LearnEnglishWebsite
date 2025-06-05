@@ -1,0 +1,95 @@
+{
+  "title": "Wishes and If only",
+  "questions": [
+    {
+      "question": "I wish I ___ taller.",
+      "options": ["were", "was", "am"],
+      "answer": "were",
+      "explanation": "Use 'were' for all subjects in wish statements (subjunctive mood)."
+    },
+    {
+      "question": "If only I ___ more time, I would travel the world.",
+      "options": ["had", "have", "has"],
+      "answer": "had",
+      "explanation": "'If only' + past simple for present unreal situations."
+    },
+    {
+      "question": "I wish it ___ raining. I want to go outside.",
+      "options": ["weren’t", "isn’t", "won’t be"],
+      "answer": "weren’t",
+      "explanation": "Use past simple (weren’t) for present wishes."
+    },
+    {
+      "question": "He wishes he ___ the exam last week.",
+      "options": ["had passed", "passed", "passes"],
+      "answer": "had passed",
+      "explanation": "Use past perfect for wishes about the past."
+    },
+    {
+      "question": "If only she ___ how to swim!",
+      "options": ["knew", "knows", "has known"],
+      "answer": "knew",
+      "explanation": "'If only' + past simple for unreal present."
+    },
+    {
+      "question": "They wish they ___ more money when they were younger.",
+      "options": ["had saved", "saved", "have saved"],
+      "answer": "had saved",
+      "explanation": "Past perfect for past regrets."
+    },
+    {
+      "question": "I wish you ___ so noisy all the time.",
+      "options": ["weren’t", "aren’t", "won’t be"],
+      "answer": "weren’t",
+      "explanation": "Unreal present — past simple."
+    },
+    {
+      "question": "If only I ___ my keys at home!",
+      "options": ["hadn’t left", "didn’t leave", "haven’t left"],
+      "answer": "hadn’t left",
+      "explanation": "Regret about the past — use past perfect."
+    },
+    {
+      "question": "She wishes she ___ how to drive.",
+      "options": ["knew", "knows", "know"],
+      "answer": "knew",
+      "explanation": "Use past simple for present unreal wish."
+    },
+    {
+      "question": "If only we ___ earlier, we wouldn’t be late now.",
+      "options": ["had left", "left", "have left"],
+      "answer": "had left",
+      "explanation": "'If only' + past perfect for regrets in the past."
+    },
+    {
+      "question": "I wish I ___ there with you now.",
+      "options": ["were", "am", "will be"],
+      "answer": "were",
+      "explanation": "'Wish' for unreal present — use 'were'."
+    },
+    {
+      "question": "If only he ___ me before making that decision.",
+      "options": ["had called", "called", "calls"],
+      "answer": "had called",
+      "explanation": "Past perfect after 'if only' for past regrets."
+    },
+    {
+      "question": "They wish it ___ snow more often in winter.",
+      "options": ["would", "will", "can"],
+      "answer": "would",
+      "explanation": "'Wish' + 'would' for desired future change."
+    },
+    {
+      "question": "If only I ___ more confident when speaking English.",
+      "options": ["were", "am", "will be"],
+      "answer": "were",
+      "explanation": "Unreal present condition."
+    },
+    {
+      "question": "She wishes she ___ the truth.",
+      "options": ["had told", "tells", "told"],
+      "answer": "had told",
+      "explanation": "Past perfect for a past wish."
+    }
+  ]
+}
