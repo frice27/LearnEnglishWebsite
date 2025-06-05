@@ -1,0 +1,95 @@
+{
+  "title": "Gerunds and Infinitives: Exceptions",
+  "questions": [
+    {
+      "question": "I stopped ___ to her after the argument.",
+      "options": ["talking", "to talk", "talk"],
+      "answer": "talking",
+      "explanation": "'Stop doing something' means to quit the action."
+    },
+    {
+      "question": "She stopped ___ a coffee on her way to work.",
+      "options": ["to get", "getting", "get"],
+      "answer": "to get",
+      "explanation": "'Stop to do something' means you stop another action in order to do this."
+    },
+    {
+      "question": "Remember ___ the lights before you leave.",
+      "options": ["to turn off", "turning off", "turn off"],
+      "answer": "to turn off",
+      "explanation": "'Remember to do' is used when you don’t forget to do something."
+    },
+    {
+      "question": "I remember ___ to the beach as a child.",
+      "options": ["going", "to go", "go"],
+      "answer": "going",
+      "explanation": "'Remember doing' is for memories of past actions."
+    },
+    {
+      "question": "He forgot ___ the door.",
+      "options": ["to lock", "locking", "lock"],
+      "answer": "to lock",
+      "explanation": "'Forget to do' means you didn’t do the action."
+    },
+    {
+      "question": "I'll never forget ___ her for the first time.",
+      "options": ["meeting", "to meet", "meet"],
+      "answer": "meeting",
+      "explanation": "'Forget doing' is about a past memory you will always remember."
+    },
+    {
+      "question": "Try ___ more vegetables in your diet.",
+      "options": ["eating", "to eat", "eat"],
+      "answer": "eating",
+      "explanation": "'Try doing' means to experiment with something to see if it helps."
+    },
+    {
+      "question": "Try ___ this medicine; it may help.",
+      "options": ["to take", "taking", "take"],
+      "answer": "to take",
+      "explanation": "'Try to do' means to attempt something."
+    },
+    {
+      "question": "He went on ___ about his achievements.",
+      "options": ["talking", "to talk", "talk"],
+      "answer": "talking",
+      "explanation": "'Go on doing' means to continue the same activity."
+    },
+    {
+      "question": "After introducing the topic, she went on ___ about the details.",
+      "options": ["to speak", "speaking", "speak"],
+      "answer": "to speak",
+      "explanation": "'Go on to do' means to continue with a different activity."
+    },
+    {
+      "question": "She regretted ___ him the truth.",
+      "options": ["telling", "to tell", "tell"],
+      "answer": "telling",
+      "explanation": "'Regret doing' is for actions done in the past that one feels sorry about."
+    },
+    {
+      "question": "I regret ___ you that your application was unsuccessful.",
+      "options": ["to inform", "informing", "inform"],
+      "answer": "to inform",
+      "explanation": "'Regret to do' is used when giving bad news."
+    },
+    {
+      "question": "He needs ___ the documents by tomorrow.",
+      "options": ["to submit", "submitting", "submit"],
+      "answer": "to submit",
+      "explanation": "'Need to do' is active voice and refers to something he must do."
+    },
+    {
+      "question": "The house needs ___ urgently.",
+      "options": ["painting", "to paint", "paint"],
+      "answer": "painting",
+      "explanation": "'Need doing' is a passive-like structure."
+    },
+    {
+      "question": "She means ___ her best in the competition.",
+      "options": ["to do", "doing", "do"],
+      "answer": "to do",
+      "explanation": "'Mean to do' is an intention."
+    }
+  ]
+}

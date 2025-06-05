@@ -1,0 +1,66 @@
+{
+  "level": "B1+",
+  "topics": [
+    {
+      "id": "grammar-b1plus-causative",
+      "title": "Causative: Have / Get something done",
+      "description": "Learn how to describe actions done for you by someone else.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-causative"
+    },
+    {
+      "id": "grammar-b1plus-reported-orders",
+      "title": "Reported Orders and Requests",
+      "description": "Practice reporting commands and polite requests.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-reported-orders"
+    },
+    {
+      "id": "grammar-b1plus-participle-clauses",
+      "title": "Participle Clauses",
+      "description": "Use participles to make your writing more concise.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-participle-clauses"
+    },
+    {
+      "id": "grammar-b1plus-modal-review",
+      "title": "Modals: Should have, Might have, Could have",
+      "description": "Talk about past possibilities and regrets.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-modal-review"
+    },
+    {
+      "id": "grammar-b1plus-contrast",
+      "title": "Contrast: Although / In spite of / However",
+      "description": "Express contrasting ideas clearly.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-contrast"
+    },
+    {
+      "id": "grammar-b1plus-emphasis",
+      "title": "Emphasis: What / It is / Inversion",
+      "description": "Highlight information in a sentence for emphasis.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-emphasis"
+    },
+    {
+      "id": "grammar-b1plus-conditional-review",
+      "title": "Conditionals Review",
+      "description": "Revise all types of conditionals including mixed.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-conditionals-review-advanced"
+    },
+    {
+      "id": "grammar-b1plus-gerunds-infinitives-exceptions",
+      "title": "Gerunds and Infinitives: Exceptions",
+      "description": "Learn verbs with unique patterns.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-gerunds-infinitives-exceptions"
+    },
+    {
+      "id": "grammar-b1plus-future-in-the-past",
+      "title": "Future in the Past",
+      "description": "Understand ‘was going to’, ‘would’, and other forms.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-future-in-the-past"
+    },
+    {
+      "id": "grammar-b1plus-relative-clauses-prepositions",
+      "title": "Relative Clauses with Prepositions",
+      "description": "Use ‘to which’, ‘for whom’ and similar forms.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1plus-relative-clauses-prepositions"
+    }
+
+  ]
+}

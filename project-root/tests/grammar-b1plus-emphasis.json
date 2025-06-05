@@ -1,0 +1,95 @@
+{
+  "title": "Emphasis: What / It is / Inversion",
+  "questions": [
+    {
+      "question": "___ I need is a good night’s sleep.",
+      "options": ["What", "That", "Which"],
+      "answer": "What",
+      "explanation": "'What' is used to emphasize something specific."
+    },
+    {
+      "question": "It ___ my brother who broke the vase.",
+      "options": ["was", "is", "are"],
+      "answer": "was",
+      "explanation": "'It was' is used to add emphasis to the subject."
+    },
+    {
+      "question": "Not only ___ she speak English, but also French.",
+      "options": ["does", "did", "do"],
+      "answer": "does",
+      "explanation": "After 'Not only', we use inversion."
+    },
+    {
+      "question": "Rarely ___ I seen such a beautiful sunset.",
+      "options": ["have", "do", "has"],
+      "answer": "have",
+      "explanation": "Inversion follows adverbs like 'rarely'."
+    },
+    {
+      "question": "It is at night ___ he feels most creative.",
+      "options": ["that", "what", "which"],
+      "answer": "that",
+      "explanation": "'It is ... that' is used for cleft sentences."
+    },
+    {
+      "question": "___ we need is a little more time.",
+      "options": ["What", "That", "Which"],
+      "answer": "What",
+      "explanation": "Use 'what' to emphasize needs or actions."
+    },
+    {
+      "question": "No sooner ___ I arrived than the phone rang.",
+      "options": ["had", "have", "did"],
+      "answer": "had",
+      "explanation": "After 'No sooner', use past perfect + inversion."
+    },
+    {
+      "question": "Only then ___ I understand the problem.",
+      "options": ["did", "do", "have"],
+      "answer": "did",
+      "explanation": "'Only then' is followed by inversion."
+    },
+    {
+      "question": "It was John ___ called the ambulance.",
+      "options": ["who", "that", "which"],
+      "answer": "who",
+      "explanation": "Use 'who' for people in cleft sentences."
+    },
+    {
+      "question": "Little ___ she know about the surprise party.",
+      "options": ["did", "does", "has"],
+      "answer": "did",
+      "explanation": "'Little' + inversion when expressing surprise."
+    },
+    {
+      "question": "It is her kindness ___ I admire most.",
+      "options": ["that", "what", "which"],
+      "answer": "that",
+      "explanation": "'It is ... that' structure for emphasis."
+    },
+    {
+      "question": "Hardly ___ I entered when it started to rain.",
+      "options": ["had", "have", "did"],
+      "answer": "had",
+      "explanation": "Use past perfect + inversion with 'hardly'."
+    },
+    {
+      "question": "Only after the meeting ___ he realize the mistake.",
+      "options": ["did", "had", "does"],
+      "answer": "did",
+      "explanation": "'Only after' requires inversion."
+    },
+    {
+      "question": "It was in Paris ___ they got engaged.",
+      "options": ["that", "what", "where"],
+      "answer": "that",
+      "explanation": "'It was ... that' to emphasize a place."
+    },
+    {
+      "question": "Never ___ I seen such determination.",
+      "options": ["have", "did", "had"],
+      "answer": "have",
+      "explanation": "'Never' at the beginning causes inversion."
+    }
+  ]
+}

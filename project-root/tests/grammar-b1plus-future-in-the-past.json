@@ -1,0 +1,95 @@
+{
+  "title": "Future in the Past",
+  "questions": [
+    {
+      "question": "He said he ___ call me later.",
+      "options": ["would", "will", "is going to"],
+      "answer": "would",
+      "explanation": "'Would' is used to express the future in the past."
+    },
+    {
+      "question": "She was going ___ the report, but she forgot.",
+      "options": ["to send", "sending", "send"],
+      "answer": "to send",
+      "explanation": "'Was going to' + base verb is used for planned actions in the past."
+    },
+    {
+      "question": "I thought they ___ arrive earlier.",
+      "options": ["would", "will", "are going to"],
+      "answer": "would",
+      "explanation": "Use 'would' to express a future action from a past perspective."
+    },
+    {
+      "question": "We were going ___ a picnic, but it started to rain.",
+      "options": ["to have", "having", "have"],
+      "answer": "to have",
+      "explanation": "'Was/were going to' is used for intentions in the past."
+    },
+    {
+      "question": "I knew you ___ win the match!",
+      "options": ["would", "will", "are going to"],
+      "answer": "would",
+      "explanation": "'Would' is the past form of 'will'."
+    },
+    {
+      "question": "She said she ___ help us with the project.",
+      "options": ["would", "will", "is going to"],
+      "answer": "would",
+      "explanation": "In reported speech, 'will' becomes 'would'."
+    },
+    {
+      "question": "He was going ___ the meeting but missed the train.",
+      "options": ["to attend", "attending", "attend"],
+      "answer": "to attend",
+      "explanation": "'Was going to attend' shows a past intention that didn’t happen."
+    },
+    {
+      "question": "They thought it ___ rain that day.",
+      "options": ["was going to", "is going to", "will"],
+      "answer": "was going to",
+      "explanation": "'Was going to' expresses prediction in the past."
+    },
+    {
+      "question": "We believed she ___ join the team.",
+      "options": ["would", "will", "is going to"],
+      "answer": "would",
+      "explanation": "Use 'would' after reporting verbs like 'believed'."
+    },
+    {
+      "question": "I didn’t know you ___ come!",
+      "options": ["were going to", "will", "would have"],
+      "answer": "were going to",
+      "explanation": "'Were going to' is the correct form for past future plans."
+    },
+    {
+      "question": "He told me he ___ start a new job soon.",
+      "options": ["was going to", "is going to", "will"],
+      "answer": "was going to",
+      "explanation": "Reported plan: 'was going to start'."
+    },
+    {
+      "question": "They were sure the train ___ on time.",
+      "options": ["would arrive", "arrives", "will arrive"],
+      "answer": "would arrive",
+      "explanation": "'Would arrive' is used for the future in the past."
+    },
+    {
+      "question": "We thought the weather ___ better.",
+      "options": ["would be", "will be", "is going to be"],
+      "answer": "would be",
+      "explanation": "'Would be' is the past form of 'will be'."
+    },
+    {
+      "question": "She was going ___ her presentation before lunch.",
+      "options": ["to give", "giving", "give"],
+      "answer": "to give",
+      "explanation": "'Was going to give' shows her intention in the past."
+    },
+    {
+      "question": "I knew it ___ be easy.",
+      "options": ["wouldn't", "won't", "isn't going to"],
+      "answer": "wouldn't",
+      "explanation": "Negative form of 'would' is used for past future."
+    }
+  ]
+}

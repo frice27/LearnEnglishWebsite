@@ -1,0 +1,95 @@
+{
+  "title": "Conditionals Review",
+  "questions": [
+    {
+      "question": "If you heat ice, it ___.",
+      "options": ["melts", "melt", "will melt"],
+      "answer": "melts",
+      "explanation": "This is Zero Conditional: If + present simple, present simple."
+    },
+    {
+      "question": "If I see her, I ___ her the news.",
+      "options": ["will tell", "tell", "would tell"],
+      "answer": "will tell",
+      "explanation": "This is First Conditional: If + present simple, will + base verb."
+    },
+    {
+      "question": "If I were you, I ___ a jacket.",
+      "options": ["would wear", "wear", "will wear"],
+      "answer": "would wear",
+      "explanation": "Second Conditional: If + past simple, would + base verb."
+    },
+    {
+      "question": "If they had studied more, they ___ the test.",
+      "options": ["would have passed", "will pass", "pass"],
+      "answer": "would have passed",
+      "explanation": "Third Conditional: If + past perfect, would have + past participle."
+    },
+    {
+      "question": "If you mix red and blue, you ___ purple.",
+      "options": ["get", "will get", "got"],
+      "answer": "get",
+      "explanation": "Zero Conditional for facts."
+    },
+    {
+      "question": "I would have called you if I ___ your number.",
+      "options": ["had known", "knew", "know"],
+      "answer": "had known",
+      "explanation": "Third Conditional: the condition uses past perfect."
+    },
+    {
+      "question": "If he ___ harder, he would be better at English.",
+      "options": ["studied", "studies", "had studied"],
+      "answer": "studied",
+      "explanation": "Second Conditional: hypothetical present/future."
+    },
+    {
+      "question": "If we ___ earlier, we wouldn’t have missed the train.",
+      "options": ["had left", "left", "leave"],
+      "answer": "had left",
+      "explanation": "Third Conditional for a past regret."
+    },
+    {
+      "question": "If she ___ the bus, she’ll be late.",
+      "options": ["misses", "miss", "missed"],
+      "answer": "misses",
+      "explanation": "First Conditional: real future possibility."
+    },
+    {
+      "question": "What would you do if you ___ a million dollars?",
+      "options": ["won", "win", "had won"],
+      "answer": "won",
+      "explanation": "Second Conditional: imaginary situation."
+    },
+    {
+      "question": "If I hadn’t eaten so much, I ___ sick.",
+      "options": ["wouldn't have felt", "don’t feel", "wouldn’t feel"],
+      "answer": "wouldn't have felt",
+      "explanation": "Third Conditional: result in the past."
+    },
+    {
+      "question": "If she ___ more time, she could finish the book.",
+      "options": ["had", "has", "had had"],
+      "answer": "had",
+      "explanation": "Second Conditional: present hypothetical."
+    },
+    {
+      "question": "If I ___ you, I wouldn’t do that.",
+      "options": ["were", "am", "had been"],
+      "answer": "were",
+      "explanation": "'If I were you' is a common Second Conditional phrase."
+    },
+    {
+      "question": "If he hadn’t lost his keys, he ___ home by now.",
+      "options": ["would be", "will be", "was"],
+      "answer": "would be",
+      "explanation": "Mixed Conditional: past condition + present result."
+    },
+    {
+      "question": "If I ___ earlier, I wouldn’t be so tired now.",
+      "options": ["had gone to bed", "went to bed", "go to bed"],
+      "answer": "had gone to bed",
+      "explanation": "Mixed Conditional: Third (past) condition + present result."
+    }
+  ]
+}
