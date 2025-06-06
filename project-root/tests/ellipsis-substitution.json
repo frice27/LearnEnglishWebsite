@@ -1,0 +1,155 @@
+{
+  "title": "Ellipsis and Substitution",
+  "questions": [
+    {
+      "question": "She likes chocolate, and so ___ I.",
+      "options": [
+        "do",
+        "did",
+        "am"
+      ],
+      "answer": "do",
+      "explanation": "Use 'so + auxiliary verb + subject' for agreement in present simple."
+    },
+    {
+      "question": "He didn’t go to the party, and neither ___ I.",
+      "options": [
+        "did",
+        "do",
+        "was"
+      ],
+      "answer": "did",
+      "explanation": "Use 'neither + auxiliary verb + subject' for negative agreement."
+    },
+    {
+      "question": "A: I enjoy reading. B: I do ___.",
+      "options": [
+        "so",
+        "too",
+        "neither"
+      ],
+      "answer": "too",
+      "explanation": "'Too' is used at the end of a sentence for agreement."
+    },
+    {
+      "question": "She went to the cinema, and so ___ we.",
+      "options": [
+        "did",
+        "do",
+        "have"
+      ],
+      "answer": "did",
+      "explanation": "Use past tense auxiliary for past agreement."
+    },
+    {
+      "question": "He likes pizza. So ___ I.",
+      "options": [
+        "do",
+        "did",
+        "was"
+      ],
+      "answer": "do",
+      "explanation": "Present tense agreement requires 'do'."
+    },
+    {
+      "question": "He was angry, and so ___ I.",
+      "options": [
+        "was",
+        "am",
+        "did"
+      ],
+      "answer": "was",
+      "explanation": "'So + was I' is used to show agreement in past continuous or past simple with 'be'."
+    },
+    {
+      "question": "She speaks French, and I ___ .",
+      "options": [
+        "do too",
+        "am too",
+        "did too"
+      ],
+      "answer": "do too",
+      "explanation": "Correct auxiliary verb is 'do' in present tense."
+    },
+    {
+      "question": "A: I can play guitar. B: So ___ I.",
+      "options": [
+        "can",
+        "do",
+        "am"
+      ],
+      "answer": "can",
+      "explanation": "Use modal 'can' to match the original statement."
+    },
+    {
+      "question": "He hasn’t finished yet, and neither ___ we.",
+      "options": [
+        "have",
+        "did",
+        "do"
+      ],
+      "answer": "have",
+      "explanation": "Match the auxiliary verb in the present perfect."
+    },
+    {
+      "question": "You like jazz, ___?",
+      "options": [
+        "don’t you",
+        "do you",
+        "didn’t you"
+      ],
+      "answer": "don’t you",
+      "explanation": "Use a tag question with correct auxiliary verb for positive sentence."
+    },
+    {
+      "question": "I love coffee. So ___ my sister.",
+      "options": [
+        "does",
+        "do",
+        "did"
+      ],
+      "answer": "does",
+      "explanation": "'So does my sister' for third person singular in present."
+    },
+    {
+      "question": "They were tired, and so ___ we.",
+      "options": [
+        "were",
+        "are",
+        "do"
+      ],
+      "answer": "were",
+      "explanation": "Use 'were' for past simple agreement."
+    },
+    {
+      "question": "He plays the piano. I do ___ .",
+      "options": [
+        "too",
+        "so",
+        "neither"
+      ],
+      "answer": "too",
+      "explanation": "'Too' expresses agreement positively."
+    },
+    {
+      "question": "She isn’t coming to the meeting. ___ am I.",
+      "options": [
+        "Neither",
+        "So",
+        "Either"
+      ],
+      "answer": "Neither",
+      "explanation": "Use 'neither' for negative agreement."
+    },
+    {
+      "question": "He won the race. So ___ she.",
+      "options": [
+        "did",
+        "does",
+        "was"
+      ],
+      "answer": "did",
+      "explanation": "Use past auxiliary 'did' for agreement in past simple."
+    }
+  ]
+}

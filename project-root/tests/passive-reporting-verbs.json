@@ -1,0 +1,155 @@
+{
+  "title": "Passive with Reporting Verbs",
+  "questions": [
+    {
+      "question": "The man ___ to be a spy.",
+      "options": [
+        "is said",
+        "was said",
+        "has said"
+      ],
+      "answer": "is said",
+      "explanation": "We use 'is said' for present passive reporting."
+    },
+    {
+      "question": "He ___ to have left the country.",
+      "options": [
+        "is believed",
+        "believed",
+        "has believed"
+      ],
+      "answer": "is believed",
+      "explanation": "Use 'is believed' + infinitive for present passive belief."
+    },
+    {
+      "question": "She ___ to have been living in London.",
+      "options": [
+        "is thought",
+        "was thought",
+        "thought"
+      ],
+      "answer": "is thought",
+      "explanation": "Use 'is thought to have been' for an ongoing past action."
+    },
+    {
+      "question": "They ___ to be working together.",
+      "options": [
+        "are reported",
+        "report",
+        "are report"
+      ],
+      "answer": "are reported",
+      "explanation": "'Are reported' is correct for passive present continuous."
+    },
+    {
+      "question": "The president ___ to have made the decision.",
+      "options": [
+        "is believed",
+        "was believed",
+        "believes"
+      ],
+      "answer": "is believed",
+      "explanation": "'Is believed' is passive with reporting verb + to have + past participle."
+    },
+    {
+      "question": "The suspect ___ to be hiding in the forest.",
+      "options": [
+        "is thought",
+        "was thought",
+        "thinks"
+      ],
+      "answer": "is thought",
+      "explanation": "Use present passive 'is thought' + infinitive for speculation."
+    },
+    {
+      "question": "The actor ___ to own five houses.",
+      "options": [
+        "is said",
+        "has said",
+        "says"
+      ],
+      "answer": "is said",
+      "explanation": "We use 'is said' + infinitive for passive reporting."
+    },
+    {
+      "question": "The company ___ to be in financial trouble.",
+      "options": [
+        "is rumored",
+        "rumored",
+        "is rumor"
+      ],
+      "answer": "is rumored",
+      "explanation": "Use passive structure: is rumored + infinitive."
+    },
+    {
+      "question": "The results ___ to be incorrect.",
+      "options": [
+        "are believed",
+        "believes",
+        "is believed"
+      ],
+      "answer": "are believed",
+      "explanation": "Plural subject requires 'are believed'."
+    },
+    {
+      "question": "He ___ to have stolen the documents.",
+      "options": [
+        "is said",
+        "said",
+        "saying"
+      ],
+      "answer": "is said",
+      "explanation": "Passive voice with reporting verb + perfect infinitive."
+    },
+    {
+      "question": "The building ___ to be over 100 years old.",
+      "options": [
+        "is thought",
+        "thinks",
+        "thought"
+      ],
+      "answer": "is thought",
+      "explanation": "'Is thought' + infinitive describes a belief in the present."
+    },
+    {
+      "question": "The scientist ___ to have discovered a new species.",
+      "options": [
+        "is reported",
+        "has reported",
+        "reported"
+      ],
+      "answer": "is reported",
+      "explanation": "Use 'is reported' + perfect infinitive for passive report."
+    },
+    {
+      "question": "The Prime Minister ___ to be planning a visit.",
+      "options": [
+        "is said",
+        "has said",
+        "was said"
+      ],
+      "answer": "is said",
+      "explanation": "'Is said to be' is a passive structure expressing report."
+    },
+    {
+      "question": "The artist ___ to have painted over 100 works.",
+      "options": [
+        "is believed",
+        "believes",
+        "was believed"
+      ],
+      "answer": "is believed",
+      "explanation": "Use passive voice with belief in the present."
+    },
+    {
+      "question": "The CEO ___ to resign next week.",
+      "options": [
+        "is expected",
+        "expects",
+        "expect"
+      ],
+      "answer": "is expected",
+      "explanation": "'Is expected' is a reporting passive form."
+    }
+  ]
+}

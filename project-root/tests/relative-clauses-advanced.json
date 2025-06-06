@@ -1,0 +1,155 @@
+{
+  "title": "Advanced Relative Clauses",
+  "questions": [
+    {
+      "question": "The person ___ car was stolen reported it to the police.",
+      "options": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' is used to show possession."
+    },
+    {
+      "question": "The building, ___ windows are all broken, will be renovated.",
+      "options": [
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' can be used with things to show possession."
+    },
+    {
+      "question": "The manager ___ team won the award was very proud.",
+      "options": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' is used for possession even with people in relative clauses."
+    },
+    {
+      "question": "I spoke to the author ___ book became a bestseller.",
+      "options": [
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' is used to indicate that the book belongs to the author."
+    },
+    {
+      "question": "They moved to a town ___ name I can’t pronounce.",
+      "options": [
+        "whose",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' indicates possession of the name by the town."
+    },
+    {
+      "question": "She hired the candidate ___ résumé impressed everyone.",
+      "options": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose résumé' indicates possession, so 'whose' is correct."
+    },
+    {
+      "question": "The scientist ___ theory changed everything won the prize.",
+      "options": [
+        "whose",
+        "who",
+        "which"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose theory' shows possession and needs 'whose'."
+    },
+    {
+      "question": "They visited the museum ___ location is famous worldwide.",
+      "options": [
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' refers to the location of the museum, showing possession."
+    },
+    {
+      "question": "This is the actor ___ movies always break records.",
+      "options": [
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose' is used to show the actor owns the movies."
+    },
+    {
+      "question": "The organization ___ mission is to help animals needs support.",
+      "options": [
+        "whose",
+        "that",
+        "which"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose mission' shows possession of the mission."
+    },
+    {
+      "question": "The committee ___ decision was final met last night.",
+      "options": [
+        "whose",
+        "which",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose decision' shows possession by the committee."
+    },
+    {
+      "question": "The company ___ employees went on strike is negotiating.",
+      "options": [
+        "whose",
+        "which",
+        "who"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose employees' shows a possessive relationship."
+    },
+    {
+      "question": "That’s the man ___ daughter is in my class.",
+      "options": [
+        "whose",
+        "who",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose daughter' shows possession."
+    },
+    {
+      "question": "I live in a house ___ roof leaks during rain.",
+      "options": [
+        "whose",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose roof' indicates the house owns the roof."
+    },
+    {
+      "question": "She met a student ___ results were impressive.",
+      "options": [
+        "whose",
+        "who",
+        "that"
+      ],
+      "answer": "whose",
+      "explanation": "'Whose results' implies possession by the student."
+    }
+  ]
+}
