@@ -1,0 +1,89 @@
+{
+  "level": "B2",
+  "topics": [
+    {
+      "id": "inversion-emphasis",
+      "title": "Inversion for Emphasis",
+      "description": "Use inversion after negative or restrictive expressions.",
+      "lessonUrl": "grammar-topic.html?topic=inversion-emphasis"
+    },
+    {
+      "id": "advanced-conditionals",
+      "title": "Advanced Conditionals",
+      "description": "Use mixed and inverted conditionals for hypothetical situations.",
+      "lessonUrl": "grammar-topic.html?topic=advanced-conditionals"
+    },
+    {
+      "id": "cleft-sentences",
+      "title": "Cleft Sentences",
+      "description": "Emphasize parts of a sentence using cleft structures.",
+      "lessonUrl": "grammar-topic.html?topic=cleft-sentences"
+    },
+    {
+      "id": "nominalisation",
+      "title": "Nominalisation",
+      "description": "Transform verbs and adjectives into nouns to make writing more formal.",
+      "lessonUrl": "grammar-topic.html?topic=nominalisation"
+    },
+    {
+      "id": "subjunctive-mood",
+      "title": "Subjunctive Mood",
+      "description": "Use the subjunctive in formal language and expressions of importance.",
+      "lessonUrl": "grammar-topic.html?topic=subjunctive-mood"
+    },
+    {
+      "id": "ellipsis-substitution",
+      "title": "Ellipsis and Substitution",
+      "description": "Avoid repetition using do so, neither, etc.",
+      "lessonUrl": "grammar-topic.html?topic=ellipsis-substitution"
+    },
+    {
+      "id": "future-perfect-continuous",
+      "title": "Future Perfect Continuous",
+      "description": "Express actions that will have been continuing up to a point in the future.",
+      "lessonUrl": "grammar-topic.html?topic=future-perfect-continuous"
+    },
+    {
+      "id": "advanced-gerunds-infinitives",
+      "title": "Advanced Gerunds and Infinitives",
+      "description": "Use complex structures with gerunds and infinitives correctly.",
+      "lessonUrl": "grammar-topic.html?topic=advanced-gerunds-infinitives"
+    },
+    {
+      "id": "passive-reporting-verbs",
+      "title": "Passive with Reporting Verbs",
+      "description": "Use passive voice with verbs like 'say', 'believe', etc.",
+      "lessonUrl": "grammar-topic.html?topic=passive-reporting-verbs"
+    },
+    {
+      "id": "relative-clauses-advanced",
+      "title": "Advanced Relative Clauses",
+      "description": "Use forms like 'whose', 'whereby', and 'whomever'.",
+      "lessonUrl": "grammar-topic.html?topic=relative-clauses-advanced"
+    },
+    {
+      "id": "participle-clauses-advanced",
+      "title": "Advanced Participle Clauses",
+      "description": "Use present and past participles in more complex sentences.",
+      "lessonUrl": "grammar-topic.html?topic=participle-clauses-advanced"
+    },
+    {
+      "id": "hedging-emphasis",
+      "title": "Hedging and Emphasis",
+      "description": "Soften or highlight statements using 'rather', 'quite', etc.",
+      "lessonUrl": "grammar-topic.html?topic=hedging-emphasis"
+    },
+    {
+      "id": "emphatic-structures",
+      "title": "Emphatic Structures",
+      "description": "Use 'It is/was', 'What', and other emphatic forms.",
+      "lessonUrl": "grammar-topic.html?topic=emphatic-structures"
+    },
+    {
+      "id": "modal-perfects",
+      "title": "Modal Perfects",
+      "description": "Use modal verbs in the perfect form for past speculation or criticism.",
+      "lessonUrl": "grammar-topic.html?topic=modal-perfects"
+    }
+  ]
+}

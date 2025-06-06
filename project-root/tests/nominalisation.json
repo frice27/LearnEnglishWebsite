@@ -1,0 +1,105 @@
+{
+  "title": "Nominalisation",
+  "questions": [
+    {
+      "question": "The manager decided to expand the company. → The manager made a decision about the company’s ___.",
+      "options": [
+        "expansion",
+        "expanding",
+        "expanded"
+      ],
+      "answer": "expansion",
+      "explanation": "'Expand' becomes 'expansion' when nominalised."
+    },
+    {
+      "question": "They failed to complete the task. → They had a ___ in completing the task.",
+      "options": [
+        "failure",
+        "fail",
+        "failed"
+      ],
+      "answer": "failure",
+      "explanation": "'Fail' becomes 'failure' in its noun form."
+    },
+    {
+      "question": "She refused to help. → Her ___ to help surprised us.",
+      "options": [
+        "refusal",
+        "refuse",
+        "refusing"
+      ],
+      "answer": "refusal",
+      "explanation": "The noun form of 'refuse' is 'refusal'."
+    },
+    {
+      "question": "We expect prices to rise. → There is an ___ of rising prices.",
+      "options": [
+        "expectation",
+        "expect",
+        "expected"
+      ],
+      "answer": "expectation",
+      "explanation": "'Expect' becomes 'expectation'."
+    },
+    {
+      "question": "He was absent from the meeting. → His ___ from the meeting was noted.",
+      "options": [
+        "absence",
+        "absent",
+        "absenting"
+      ],
+      "answer": "absence",
+      "explanation": "'Absent' is nominalised to 'absence'."
+    },
+    {
+      "question": "They decided to close the factory. → The ___ of the factory affected many workers.",
+      "options": [
+        "closure",
+        "close",
+        "closing"
+      ],
+      "answer": "closure",
+      "explanation": "The noun form of 'close' is 'closure'."
+    },
+    {
+      "question": "She applied for a job. → Her job ___ was successful.",
+      "options": [
+        "application",
+        "applying",
+        "applied"
+      ],
+      "answer": "application",
+      "explanation": "'Apply' becomes 'application'."
+    },
+    {
+      "question": "They agreed to the new terms. → Their ___ to the new terms was unanimous.",
+      "options": [
+        "agreement",
+        "agree",
+        "agreeing"
+      ],
+      "answer": "agreement",
+      "explanation": "The noun form of 'agree' is 'agreement'."
+    },
+    {
+      "question": "He informed us of the delay. → We received his ___ about the delay.",
+      "options": [
+        "information",
+        "inform",
+        "informed"
+      ],
+      "answer": "information",
+      "explanation": "'Inform' becomes 'information' as a noun."
+    },
+    {
+      "question": "She performed well in the exam. → Her exam ___ was impressive.",
+      "options": [
+        "performance",
+        "performing",
+        "performed"
+      ],
+      "answer": "performance",
+      "explanation": "'Perform' becomes 'performance' in noun form."
+    }
+  ]
+}
