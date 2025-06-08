@@ -1,0 +1,80 @@
+{
+  "title": "Past Continuous Quiz",
+  "questions": [
+    {
+      "question": "I ___ watching TV when you called.",
+      "options": ["was", "were", "am"],
+      "answer": "was"
+    },
+    {
+      "question": "They ___ playing football at 5 o’clock.",
+      "options": ["were", "was", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "What ___ you doing yesterday at 8 PM?",
+      "options": ["were", "was", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "She ___ reading a book while he was cooking.",
+      "options": ["was", "were", "is"],
+      "answer": "was"
+    },
+    {
+      "question": "We ___ not sleeping at that time.",
+      "options": ["were", "was", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "He ___ listening to music when I entered the room.",
+      "options": ["was", "were", "is"],
+      "answer": "was"
+    },
+    {
+      "question": "___ they studying when it started raining?",
+      "options": ["Were", "Was", "Did"],
+      "answer": "Were"
+    },
+    {
+      "question": "I ___ driving when you called me.",
+      "options": ["was", "were", "am"],
+      "answer": "was"
+    },
+    {
+      "question": "The children ___ playing outside.",
+      "options": ["were", "was", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "She ___ not feeling well yesterday.",
+      "options": ["was", "were", "is"],
+      "answer": "was"
+    },
+    {
+      "question": "They ___ waiting for the bus at 4 PM.",
+      "options": ["were", "was", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "___ you sleeping when the phone rang?",
+      "options": ["Were", "Was", "Did"],
+      "answer": "Were"
+    },
+    {
+      "question": "He ___ working when I saw him.",
+      "options": ["was", "were", "is"],
+      "answer": "was"
+    },
+    {
+      "question": "We ___ having dinner at 7 PM.",
+      "options": ["were", "was", "are"],
+      "answer": "were"
+    },
+    {
+      "question": "My dad ___ driving to work while I was eating.",
+      "options": ["was", "were", "is"],
+      "answer": "was"
+    }
+  ]
+}

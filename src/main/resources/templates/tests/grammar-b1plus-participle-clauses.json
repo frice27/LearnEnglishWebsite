@@ -1,0 +1,95 @@
+{
+  "title": "Participle Clauses",
+  "questions": [
+    {
+      "question": "___ in France, she knows the culture very well.",
+      "options": ["Having lived", "Lived", "Living"],
+      "answer": "Having lived",
+      "explanation": "'Having lived' = past perfect meaning in reduced clause."
+    },
+    {
+      "question": "The man ___ by the police was innocent.",
+      "options": ["arrested", "arresting", "arrests"],
+      "answer": "arrested",
+      "explanation": "Use past participle for passive meaning."
+    },
+    {
+      "question": "The students ___ for the test were nervous.",
+      "options": ["waiting", "waited", "wait"],
+      "answer": "waiting",
+      "explanation": "'Waiting' = present participle to describe the students."
+    },
+    {
+      "question": "___ a lot of money, he bought a car.",
+      "options": ["Having saved", "Saved", "Saving"],
+      "answer": "Having saved",
+      "explanation": "'Having saved' refers to a completed action before another."
+    },
+    {
+      "question": "___ the door, she went out.",
+      "options": ["Closing", "Closed", "Having closed"],
+      "answer": "Having closed",
+      "explanation": "Use 'having + past participle' for sequence of actions."
+    },
+    {
+      "question": "___ the report, he sent it to his manager.",
+      "options": ["Finishing", "Finished", "Having finished"],
+      "answer": "Having finished",
+      "explanation": "Completed action before the main verb."
+    },
+    {
+      "question": "Children ___ English quickly improve their skills.",
+      "options": ["learning", "learned", "learn"],
+      "answer": "learning",
+      "explanation": "Use 'learning' as an active participle."
+    },
+    {
+      "question": "___ for hours, they finally reached the top.",
+      "options": ["Having walked", "Walk", "Walking"],
+      "answer": "Having walked",
+      "explanation": "'Having walked' = completed effort before result."
+    },
+    {
+      "question": "People ___ in the queue were frustrated.",
+      "options": ["standing", "stood", "stand"],
+      "answer": "standing",
+      "explanation": "Present participle describes people."
+    },
+    {
+      "question": "___ by his success, he smiled proudly.",
+      "options": ["Encouraged", "Encouraging", "Encourage"],
+      "answer": "Encouraged",
+      "explanation": "Past participle used in passive context."
+    },
+    {
+      "question": "___ the cake, she set the table.",
+      "options": ["Having made", "Making", "Made"],
+      "answer": "Having made",
+      "explanation": "Sequence: finish baking → set table."
+    },
+    {
+      "question": "The players ___ on the field looked tired.",
+      "options": ["running", "ran", "run"],
+      "answer": "running",
+      "explanation": "Present participle describes action in progress."
+    },
+    {
+      "question": "___ the rules, he continued playing.",
+      "options": ["Knowing", "Known", "Having known"],
+      "answer": "Knowing",
+      "explanation": "'Knowing' = reason for his decision."
+    },
+    {
+      "question": "___ a book, she forgot the time.",
+      "options": ["Reading", "Read", "Reads"],
+      "answer": "Reading",
+      "explanation": "Present participle action happening at same time."
+    },
+    {
+      "question": "___ all the necessary ingredients, she started cooking.",
+      "options": ["Having prepared", "Preparing", "Prepared"],
+      "answer": "Having prepared",
+      "explanation": "Use 'having prepared' for cause/result relation."
+    }
+  ]
+}

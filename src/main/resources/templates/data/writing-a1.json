@@ -1,0 +1,35 @@
+{
+  "level": "A1",
+  "topics": [
+    {
+      "id": "introduce-yourself",
+      "title": "Introducing Yourself",
+      "description": "Learn how to write a simple paragraph about yourself.",
+      "lessonUrl": "writing-topic.html?topic=introduce-yourself"
+    },
+    {
+      "id": "daily-routine",
+      "title": "My Daily Routine",
+      "description": "Practice writing about what you do every day.",
+      "lessonUrl": "writing-topic.html?topic=daily-routine"
+    },
+    {
+      "id": "my-family",
+      "title": "My Family",
+      "description": "Write about your family members and relationships.",
+      "lessonUrl": "writing-topic.html?topic=my-family"
+    },
+    {
+      "id": "my-home",
+      "title": "My Home",
+      "description": "Describe your home and the rooms in it.",
+      "lessonUrl": "writing-topic.html?topic=my-home"
+    },
+    {
+      "id": "my-favorite-food",
+      "title": "My Favorite Food",
+      "description": "Write about foods you like and why.",
+      "lessonUrl": "writing-topic.html?topic=my-favorite-food"
+    }
+  ]
+}

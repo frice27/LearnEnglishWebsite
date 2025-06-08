@@ -1,0 +1,155 @@
+{
+  "title": "Emphatic Structures",
+  "questions": [
+    {
+      "question": "___ I need is a good night's sleep.",
+      "options": [
+        "What",
+        "That",
+        "Which"
+      ],
+      "answer": "What",
+      "explanation": "We use 'What' to emphasize something specific."
+    },
+    {
+      "question": "It ___ John who broke the window.",
+      "options": [
+        "was",
+        "is",
+        "are"
+      ],
+      "answer": "was",
+      "explanation": "'It was' is used to emphasize the subject in the past."
+    },
+    {
+      "question": "___ I want to know is the truth.",
+      "options": [
+        "What",
+        "That",
+        "Who"
+      ],
+      "answer": "What",
+      "explanation": "'What' is used at the beginning of emphatic clauses."
+    },
+    {
+      "question": "It was at this moment that she ___ the decision.",
+      "options": [
+        "made",
+        "makes",
+        "make"
+      ],
+      "answer": "made",
+      "explanation": "Use past tense with 'It was... that' for emphasis."
+    },
+    {
+      "question": "___ surprised me most was his honesty.",
+      "options": [
+        "What",
+        "That",
+        "Which"
+      ],
+      "answer": "What",
+      "explanation": "'What' introduces the emphasized part of the sentence."
+    },
+    {
+      "question": "It ___ Peter who helped me move.",
+      "options": [
+        "was",
+        "is",
+        "are"
+      ],
+      "answer": "was",
+      "explanation": "'It was' is the correct emphatic form in the past."
+    },
+    {
+      "question": "It was the cake ___ made everyone happy.",
+      "options": [
+        "that",
+        "which",
+        "who"
+      ],
+      "answer": "that",
+      "explanation": "'That' is used to emphasize an object or idea."
+    },
+    {
+      "question": "What ___ really matters is your happiness.",
+      "options": [
+        "really",
+        "does",
+        "is"
+      ],
+      "answer": "is",
+      "explanation": "'What... is' is the structure used for emphasis."
+    },
+    {
+      "question": "It was only after he left ___ she cried.",
+      "options": [
+        "that",
+        "when",
+        "then"
+      ],
+      "answer": "that",
+      "explanation": "'It was only after... that' emphasizes a time-related clause."
+    },
+    {
+      "question": "What he did ___ amazing.",
+      "options": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer": "was",
+      "explanation": "Use 'was' for singular subject 'what he did'."
+    },
+    {
+      "question": "It is the effort ___ counts, not the result.",
+      "options": [
+        "that",
+        "who",
+        "which"
+      ],
+      "answer": "that",
+      "explanation": "'That' is used to highlight a specific noun."
+    },
+    {
+      "question": "What really ___ is your attitude.",
+      "options": [
+        "matter",
+        "matters",
+        "mattered"
+      ],
+      "answer": "matters",
+      "explanation": "'What... matters' is the correct present tense structure."
+    },
+    {
+      "question": "___ I found shocking was his reaction.",
+      "options": [
+        "What",
+        "That",
+        "Who"
+      ],
+      "answer": "What",
+      "explanation": "'What' introduces the part being emphasized."
+    },
+    {
+      "question": "It was the teacher ___ gave me this advice.",
+      "options": [
+        "who",
+        "that",
+        "which"
+      ],
+      "answer": "who",
+      "explanation": "'Who' is used for people in emphatic clauses."
+    },
+    {
+      "question": "___ we need now is a miracle.",
+      "options": [
+        "What",
+        "That",
+        "Which"
+      ],
+      "answer": "What",
+      "explanation": "'What we need now...' is a typical emphatic expression."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Used to / Be used to / Get used to",
+  "questions": [
+    {
+      "question": "I ___ live in the countryside, but now I live in the city.",
+      "options": ["used to", "am used to", "get used to"],
+      "answer": "used to",
+      "explanation": "'Used to' is for past habits or states that no longer happen."
+    },
+    {
+      "question": "She is ___ waking up early for work.",
+      "options": ["used to", "be used to", "getting used to"],
+      "answer": "used to",
+      "explanation": "'Be used to' is followed by a noun or -ing form."
+    },
+    {
+      "question": "He’s ___ the noise now. At first it was hard.",
+      "options": ["getting used to", "used to", "get used to"],
+      "answer": "getting used to",
+      "explanation": "'Getting used to' describes the process of becoming familiar."
+    },
+    {
+      "question": "They ___ go to that cafe every Friday.",
+      "options": ["used to", "are used to", "get used to"],
+      "answer": "used to",
+      "explanation": "'Used to' is for past repeated actions or habits."
+    },
+    {
+      "question": "We’re ___ driving on the left side now.",
+      "options": ["used to", "getting used to", "get used to"],
+      "answer": "getting used to",
+      "explanation": "Use 'getting used to' when the process is still happening."
+    },
+    {
+      "question": "I'm ___ the cold weather after moving to Norway.",
+      "options": ["getting used to", "used to", "get used to"],
+      "answer": "getting used to",
+      "explanation": "You're still adjusting — use 'getting used to'."
+    },
+    {
+      "question": "She’s ___ working long hours.",
+      "options": ["used to", "use to", "get used to"],
+      "answer": "used to",
+      "explanation": "When you're familiar with something now, use 'used to' + -ing."
+    },
+    {
+      "question": "He ___ smoke, but now he doesn’t.",
+      "options": ["used to", "is used to", "get used to"],
+      "answer": "used to",
+      "explanation": "'Used to' for past habits."
+    },
+    {
+      "question": "Are you ___ the new system yet?",
+      "options": ["used to", "getting used to", "get used to"],
+      "answer": "getting used to",
+      "explanation": "Use 'getting used to' when asking about adjustment."
+    },
+    {
+      "question": "She’s ___ spicy food after living in India.",
+      "options": ["used to", "getting used to", "get used to"],
+      "answer": "getting used to",
+      "explanation": "'Getting used to' implies it's a current process."
+    },
+    {
+      "question": "He’s ___ driving a manual car now.",
+      "options": ["used to", "be used to", "getting used to"],
+      "answer": "used to",
+      "explanation": "'Used to' + verb for a past action that no longer happens."
+    },
+    {
+      "question": "We’re ___ eating dinner late.",
+      "options": ["used to", "get used to", "getting used to"],
+      "answer": "used to",
+      "explanation": "Familiar with a situation — 'used to' + -ing."
+    },
+    {
+      "question": "It was difficult at first, but now I ___ it.",
+      "options": ["am used to", "used to", "get used to"],
+      "answer": "am used to",
+      "explanation": "You're familiar now — use 'am used to'."
+    },
+    {
+      "question": "You’ll ___ waking up early after a few weeks.",
+      "options": ["get used to", "used to", "be used to"],
+      "answer": "get used to",
+      "explanation": "'Get used to' describes the adjustment process."
+    },
+    {
+      "question": "They ___ be late all the time.",
+      "options": ["used to", "are used to", "get used to"],
+      "answer": "used to",
+      "explanation": "'Used to' shows past habit that has changed."
+    }
+  ]
+}

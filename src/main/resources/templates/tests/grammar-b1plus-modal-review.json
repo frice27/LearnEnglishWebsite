@@ -1,0 +1,95 @@
+{
+  "title": "Modals: Should have, Might have, Could have",
+  "questions": [
+    {
+      "question": "I ___ studied harder for the exam.",
+      "options": ["should have", "might have", "could"],
+      "answer": "should have",
+      "explanation": "'Should have' = expressing regret or advice about the past."
+    },
+    {
+      "question": "He ___ taken the wrong train. I'm not sure.",
+      "options": ["might have", "should have", "must have"],
+      "answer": "might have",
+      "explanation": "'Might have' = possibility in the past."
+    },
+    {
+      "question": "They ___ helped us, but they didn’t offer.",
+      "options": ["could have", "must have", "should have"],
+      "answer": "could have",
+      "explanation": "'Could have' = possibility or ability that wasn't used."
+    },
+    {
+      "question": "You ___ told me about the delay!",
+      "options": ["should have", "might have", "must have"],
+      "answer": "should have",
+      "explanation": "Expressing mild criticism about the past."
+    },
+    {
+      "question": "She ___ missed the email. Did you check?",
+      "options": ["might have", "could have", "should have"],
+      "answer": "might have",
+      "explanation": "Use 'might have' when you’re not sure."
+    },
+    {
+      "question": "I ___ gone to the party, but I was too tired.",
+      "options": ["could have", "should have", "might have"],
+      "answer": "could have",
+      "explanation": "'Could have' = possibility that didn't happen."
+    },
+    {
+      "question": "He ___ asked for help instead of staying silent.",
+      "options": ["should have", "might have", "could have"],
+      "answer": "should have",
+      "explanation": "Criticism or missed opportunity."
+    },
+    {
+      "question": "They ___ forgotten about the meeting.",
+      "options": ["might have", "should have", "will have"],
+      "answer": "might have",
+      "explanation": "Uncertain guess about a past event."
+    },
+    {
+      "question": "You ___ hurt yourself climbing that tree!",
+      "options": ["could have", "should have", "might have"],
+      "answer": "could have",
+      "explanation": "Use 'could have' to express a risk or danger."
+    },
+    {
+      "question": "I ___ called her earlier. It’s my fault.",
+      "options": ["should have", "might have", "must have"],
+      "answer": "should have",
+      "explanation": "'Should have' = personal responsibility/regret."
+    },
+    {
+      "question": "We ___ taken a taxi. It was raining so much.",
+      "options": ["should have", "might have", "can have"],
+      "answer": "should have",
+      "explanation": "Advice/regret about what would have been better."
+    },
+    {
+      "question": "They ___ seen us from the window.",
+      "options": ["might have", "should have", "must have"],
+      "answer": "might have",
+      "explanation": "Uncertainty about what happened."
+    },
+    {
+      "question": "She ___ been more careful with her words.",
+      "options": ["could have", "should have", "might have"],
+      "answer": "should have",
+      "explanation": "A missed obligation or advice in the past."
+    },
+    {
+      "question": "I ___ left my keys at home, but I’m not sure.",
+      "options": ["might have", "should have", "must have"],
+      "answer": "might have",
+      "explanation": "Uncertainty about a past action."
+    },
+    {
+      "question": "You ___ broken your phone if you dropped it again!",
+      "options": ["could have", "should have", "might have"],
+      "answer": "could have",
+      "explanation": "'Could have' is used for dangerous possibilities."
+    }
+  ]
+}

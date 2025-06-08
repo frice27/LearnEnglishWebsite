@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Writing Lessons</title>
+  <link rel="stylesheet" th:href="@{/css/styles.css}" />
+</head>
+
+<body>
+<!-- Navigation -->
+<nav class="navbar">
+  <div class="navbar-left"><a href="index.html">English Journey</a></div>
+</nav>
+
+<!-- Header -->
+<header class="hero-section">
+  <div class="hero-text">
+    <h1 id="level-title">Writing Lessons</h1>
+    <p id="level-description">Select your level to begin.</p>
+  </div>
+</header>
+
+<!-- Topics Section -->
+<section class="topics-section">
+  <div id="topics-container" class="card-grid">
+    <!-- JavaScript will insert topics here -->
+  </div>
+</section>
+
+<!-- Подключение JS -->
+<script th:src="@{/js/logic.js}" defer></script>
+</body>
+</html>

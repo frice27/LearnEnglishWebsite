@@ -1,0 +1,105 @@
+{
+  "title": "Inversion for Emphasis",
+  "questions": [
+    {
+      "question": "___ had I entered the room when the phone rang.",
+      "options": [
+        "Hardly",
+        "No sooner",
+        "Rarely"
+      ],
+      "answer": "No sooner",
+      "explanation": "'No sooner' is used with past perfect in inversion."
+    },
+    {
+      "question": "Rarely ___ such a beautiful sight.",
+      "options": [
+        "have I seen",
+        "I have seen",
+        "do I see"
+      ],
+      "answer": "have I seen",
+      "explanation": "After 'rarely', use inversion with perfect tenses."
+    },
+    {
+      "question": "Only after the meeting ___ the issue clearly.",
+      "options": [
+        "did we understand",
+        "we understood",
+        "have we understood"
+      ],
+      "answer": "did we understand",
+      "explanation": "Inversion follows 'Only after'."
+    },
+    {
+      "question": "Seldom ___ such enthusiasm.",
+      "options": [
+        "do we witness",
+        "we witness",
+        "we have witnessed"
+      ],
+      "answer": "do we witness",
+      "explanation": "'Seldom' at the beginning of the sentence requires inversion."
+    },
+    {
+      "question": "Not until he apologized ___ her forgive him.",
+      "options": [
+        "did",
+        "had",
+        "was"
+      ],
+      "answer": "did",
+      "explanation": "'Not until' requires inversion in the second clause."
+    },
+    {
+      "question": "Only by working hard ___ achieve your goals.",
+      "options": [
+        "can you",
+        "you can",
+        "will you be able"
+      ],
+      "answer": "can you",
+      "explanation": "'Only by' requires inversion."
+    },
+    {
+      "question": "No sooner had he finished speaking ___ the lights went out.",
+      "options": [
+        "than",
+        "when",
+        "then"
+      ],
+      "answer": "than",
+      "explanation": "The correct collocation is 'No sooner... than...'"
+    },
+    {
+      "question": "Little ___ about the consequences of his decision.",
+      "options": [
+        "did he know",
+        "he knew",
+        "has he known"
+      ],
+      "answer": "did he know",
+      "explanation": "'Little' at the start requires inversion with past simple."
+    },
+    {
+      "question": "Never ___ such a complicated task before.",
+      "options": [
+        "have I attempted",
+        "I have attempted",
+        "do I attempt"
+      ],
+      "answer": "have I attempted",
+      "explanation": "'Never' requires inversion with perfect tense."
+    },
+    {
+      "question": "Under no circumstances ___ the door to strangers.",
+      "options": [
+        "should you open",
+        "you should open",
+        "you must open"
+      ],
+      "answer": "should you open",
+      "explanation": "Inversion follows 'Under no circumstances'."
+    }
+  ]
+}

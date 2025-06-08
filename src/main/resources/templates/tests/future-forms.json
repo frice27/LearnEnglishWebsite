@@ -1,0 +1,80 @@
+{
+  "title": "Future Forms: Going to vs Will Quiz",
+  "questions": [
+    {
+      "question": "I think it ___ rain tomorrow.",
+      "options": ["will", "am going to", "is going"],
+      "answer": "will"
+    },
+    {
+      "question": "She ___ visit her grandparents this weekend. It’s already planned.",
+      "options": ["is going to", "will", "goes to"],
+      "answer": "is going to"
+    },
+    {
+      "question": "They ___ be late. There’s traffic.",
+      "options": ["will", "are going to", "was"],
+      "answer": "are going to"
+    },
+    {
+      "question": "I ___ help you with your homework!",
+      "options": ["will", "am going to", "help"],
+      "answer": "will"
+    },
+    {
+      "question": "We ___ have a meeting at 4 PM. It’s scheduled.",
+      "options": ["are going to", "will", "go"],
+      "answer": "are going to"
+    },
+    {
+      "question": "Look at those clouds! It ___ rain soon.",
+      "options": ["is going to", "will", "does"],
+      "answer": "is going to"
+    },
+    {
+      "question": "He’s tired. He ___ take a nap.",
+      "options": ["is going to", "will", "take"],
+      "answer": "is going to"
+    },
+    {
+      "question": "I promise I ___ call you later.",
+      "options": ["will", "am going to", "am"],
+      "answer": "will"
+    },
+    {
+      "question": "We ___ travel to Italy next summer. We already bought the tickets.",
+      "options": ["are going to", "will", "travel"],
+      "answer": "are going to"
+    },
+    {
+      "question": "Wait a second, I ___ open the window for you.",
+      "options": ["will", "am going to", "can"],
+      "answer": "will"
+    },
+    {
+      "question": "She ___ bake a cake this afternoon. It’s her plan.",
+      "options": ["is going to", "will", "is baking"],
+      "answer": "is going to"
+    },
+    {
+      "question": "I think they ___ win the match.",
+      "options": ["will", "are going to", "won’t"],
+      "answer": "will"
+    },
+    {
+      "question": "He ___ study more. He promised.",
+      "options": ["will", "is going to", "studies"],
+      "answer": "will"
+    },
+    {
+      "question": "We ___ visit grandma on Sunday. It’s our plan.",
+      "options": ["are going to", "will", "visit"],
+      "answer": "are going to"
+    },
+    {
+      "question": "I’m sure she ___ love this movie!",
+      "options": ["will", "is going to", "loves"],
+      "answer": "will"
+    }
+  ]
+}

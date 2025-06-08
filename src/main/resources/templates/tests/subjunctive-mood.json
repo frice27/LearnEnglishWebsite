@@ -1,0 +1,155 @@
+{
+  "title": "Subjunctive Mood",
+  "questions": [
+    {
+      "question": "It's essential that he ___ on time.",
+      "options": [
+        "be",
+        "is",
+        "was"
+      ],
+      "answer": "be",
+      "explanation": "Use the base form of the verb in the subjunctive after expressions like 'It's essential that...'."
+    },
+    {
+      "question": "If I ___ you, I would tell the truth.",
+      "options": [
+        "were",
+        "was",
+        "am"
+      ],
+      "answer": "were",
+      "explanation": "Use 'were' for all subjects in the subjunctive form after 'If I...'."
+    },
+    {
+      "question": "They suggested that she ___ a break.",
+      "options": [
+        "take",
+        "takes",
+        "took"
+      ],
+      "answer": "take",
+      "explanation": "After verbs like 'suggest', use the base verb form in the subjunctive."
+    },
+    {
+      "question": "It is important that everyone ___ the rules.",
+      "options": [
+        "follow",
+        "follows",
+        "followed"
+      ],
+      "answer": "follow",
+      "explanation": "Use the base form of the verb after 'It is important that...'."
+    },
+    {
+      "question": "The teacher insisted that he ___ in class.",
+      "options": [
+        "stay",
+        "stayed",
+        "stays"
+      ],
+      "answer": "stay",
+      "explanation": "Use the base form in the subjunctive after verbs like 'insist'."
+    },
+    {
+      "question": "If he ___ here, he’d help you.",
+      "options": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer": "were",
+      "explanation": "'Were' is the correct subjunctive form for unreal situations with 'if'."
+    },
+    {
+      "question": "The doctor recommended that she ___ more rest.",
+      "options": [
+        "get",
+        "got",
+        "gets"
+      ],
+      "answer": "get",
+      "explanation": "Use the base form of the verb in the subjunctive after 'recommend'."
+    },
+    {
+      "question": "It’s vital that the patient ___ the medication.",
+      "options": [
+        "take",
+        "takes",
+        "took"
+      ],
+      "answer": "take",
+      "explanation": "'Vital that...' is followed by a subjunctive verb (base form)."
+    },
+    {
+      "question": "If I ___ taller, I would join the team.",
+      "options": [
+        "were",
+        "was",
+        "am"
+      ],
+      "answer": "were",
+      "explanation": "Use 'were' for hypothetical situations with 'if I...'."
+    },
+    {
+      "question": "The manager demanded that he ___ the meeting.",
+      "options": [
+        "attend",
+        "attends",
+        "attended"
+      ],
+      "answer": "attend",
+      "explanation": "The subjunctive form after 'demand' is the base verb."
+    },
+    {
+      "question": "It’s necessary that you ___ early tomorrow.",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived"
+      ],
+      "answer": "arrive",
+      "explanation": "Use base form after 'It’s necessary that...'."
+    },
+    {
+      "question": "If she ___ more confident, she’d speak up.",
+      "options": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer": "were",
+      "explanation": "'Were' is used in unreal or hypothetical conditions."
+    },
+    {
+      "question": "The judge ordered that the man ___ released.",
+      "options": [
+        "be",
+        "is",
+        "was"
+      ],
+      "answer": "be",
+      "explanation": "Use 'be' in passive subjunctive constructions."
+    },
+    {
+      "question": "It’s recommended that you ___ with caution.",
+      "options": [
+        "proceed",
+        "proceeds",
+        "proceeded"
+      ],
+      "answer": "proceed",
+      "explanation": "'Recommended that...' requires the subjunctive: base verb."
+    },
+    {
+      "question": "If he ___ more careful, he wouldn’t have made the mistake.",
+      "options": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer": "were",
+      "explanation": "Use 'were' for imaginary situations in the past."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Modal Perfects",
+  "questions": [
+    {
+      "question": "He ___ studied more if he wanted to pass the exam.",
+      "options": [
+        "should have",
+        "might have",
+        "could"
+      ],
+      "answer": "should have",
+      "explanation": "Use 'should have' to express a missed obligation or advice in the past."
+    },
+    {
+      "question": "They ___ left earlier to avoid the traffic jam.",
+      "options": [
+        "should have",
+        "must have",
+        "can have"
+      ],
+      "answer": "should have",
+      "explanation": "'Should have' is used for giving past advice."
+    },
+    {
+      "question": "You ___ told me about the change in plans!",
+      "options": [
+        "could have",
+        "must have",
+        "shall have"
+      ],
+      "answer": "could have",
+      "explanation": "'Could have' indicates a missed opportunity."
+    },
+    {
+      "question": "He ___ been tired after working for 12 hours straight.",
+      "options": [
+        "must have",
+        "should have",
+        "might have"
+      ],
+      "answer": "must have",
+      "explanation": "'Must have' expresses a logical deduction about the past."
+    },
+    {
+      "question": "She ___ taken the wrong train; that\u2019s why she\u2019s late.",
+      "options": [
+        "might have",
+        "must have",
+        "shall have"
+      ],
+      "answer": "might have",
+      "explanation": "'Might have' is used for speculation about the past."
+    },
+    {
+      "question": "They ___ warned us earlier. Now it\u2019s too late.",
+      "options": [
+        "could have",
+        "must have",
+        "may have"
+      ],
+      "answer": "could have",
+      "explanation": "'Could have' expresses a possibility that didn\u2019t happen."
+    },
+    {
+      "question": "He ___ known it would happen. He looked surprised.",
+      "options": [
+        "can\u2019t have",
+        "must have",
+        "might have"
+      ],
+      "answer": "can\u2019t have",
+      "explanation": "'Can\u2019t have' is used when you are sure something did NOT happen."
+    },
+    {
+      "question": "I ___ forgotten my keys at the office.",
+      "options": [
+        "might have",
+        "must have",
+        "should have"
+      ],
+      "answer": "might have",
+      "explanation": "'Might have' indicates a possibility in the past."
+    },
+    {
+      "question": "They ___ completed the project by now.",
+      "options": [
+        "must have",
+        "should have",
+        "could"
+      ],
+      "answer": "must have",
+      "explanation": "'Must have' implies a strong assumption about a past action."
+    },
+    {
+      "question": "She ___ called you. She didn\u2019t know you were back.",
+      "options": [
+        "can\u2019t have",
+        "may have",
+        "could"
+      ],
+      "answer": "can\u2019t have",
+      "explanation": "'Can\u2019t have' is used for negative logical deductions in the past."
+    },
+    {
+      "question": "You ___ left the lights on all night.",
+      "options": [
+        "must have",
+        "should have",
+        "might"
+      ],
+      "answer": "must have",
+      "explanation": "Use 'must have' to express a logical conclusion about the past."
+    },
+    {
+      "question": "He ___ apologized for what he did.",
+      "options": [
+        "should have",
+        "must have",
+        "could have"
+      ],
+      "answer": "should have",
+      "explanation": "'Should have' expresses a missed moral or social obligation."
+    },
+    {
+      "question": "I ___ seen her at the party. She looked familiar.",
+      "options": [
+        "might have",
+        "should have",
+        "can have"
+      ],
+      "answer": "might have",
+      "explanation": "'Might have' is used when something possibly happened."
+    },
+    {
+      "question": "You ___ driven more carefully in the snow.",
+      "options": [
+        "should have",
+        "must have",
+        "might have"
+      ],
+      "answer": "should have",
+      "explanation": "'Should have' indicates advice for a past situation."
+    },
+    {
+      "question": "They ___ heard the news already.",
+      "options": [
+        "must have",
+        "should have",
+        "can have"
+      ],
+      "answer": "must have",
+      "explanation": "'Must have' expresses certainty based on evidence."
+    }
+  ]
+}

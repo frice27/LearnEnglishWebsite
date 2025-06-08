@@ -1,0 +1,155 @@
+{
+  "title": "Advanced Conditionals",
+  "questions": [
+    {
+      "question": "If I ___ earlier, I wouldn’t have missed the train.",
+      "options": [
+        "had left",
+        "left",
+        "have left"
+      ],
+      "answer": "had left",
+      "explanation": "Third conditional: If + past perfect, would have + past participle."
+    },
+    {
+      "question": "If she studied harder, she ___ pass the exam.",
+      "options": [
+        "would",
+        "will",
+        "would have"
+      ],
+      "answer": "would",
+      "explanation": "Second conditional: If + past simple, would + verb."
+    },
+    {
+      "question": "Had I known about the meeting, I ___.",
+      "options": [
+        "would have come",
+        "will come",
+        "would come"
+      ],
+      "answer": "would have come",
+      "explanation": "Inverted third conditional: Had + subject + past participle."
+    },
+    {
+      "question": "If it ___ raining, we could have gone hiking.",
+      "options": [
+        "hadn't been",
+        "wasn't",
+        "weren’t"
+      ],
+      "answer": "hadn't been",
+      "explanation": "Mixed conditional: Past perfect in 'if' clause."
+    },
+    {
+      "question": "If I were you, I ___ that job.",
+      "options": [
+        "would take",
+        "will take",
+        "took"
+      ],
+      "answer": "would take",
+      "explanation": "Second conditional for advice."
+    },
+    {
+      "question": "If he ___ more polite, he would have made more friends.",
+      "options": [
+        "had been",
+        "was",
+        "would be"
+      ],
+      "answer": "had been",
+      "explanation": "Third conditional structure."
+    },
+    {
+      "question": "Were she to arrive now, we ___ surprised.",
+      "options": [
+        "would be",
+        "will be",
+        "are"
+      ],
+      "answer": "would be",
+      "explanation": "Inversion: Were + subject + infinitive, would + verb."
+    },
+    {
+      "question": "If you ___ me earlier, I could have helped.",
+      "options": [
+        "had told",
+        "told",
+        "have told"
+      ],
+      "answer": "had told",
+      "explanation": "Third conditional."
+    },
+    {
+      "question": "Had he tried harder, he ___ the competition.",
+      "options": [
+        "might have won",
+        "might win",
+        "won"
+      ],
+      "answer": "might have won",
+      "explanation": "Third conditional with modal verb."
+    },
+    {
+      "question": "If they ___ to the rules, they wouldn’t be in trouble.",
+      "options": [
+        "had listened",
+        "listened",
+        "have listened"
+      ],
+      "answer": "had listened",
+      "explanation": "Mixed conditional."
+    },
+    {
+      "question": "If it weren’t for his help, we ___ lost.",
+      "options": [
+        "would be",
+        "would have been",
+        "were"
+      ],
+      "answer": "would be",
+      "explanation": "Second conditional using 'If it weren't for...'"
+    },
+    {
+      "question": "If she ___ more confident, she would speak up.",
+      "options": [
+        "were",
+        "was",
+        "had been"
+      ],
+      "answer": "were",
+      "explanation": "Second conditional with subjunctive 'were'."
+    },
+    {
+      "question": "Should you need any help, I ___ here.",
+      "options": [
+        "am",
+        "will be",
+        "was"
+      ],
+      "answer": "will be",
+      "explanation": "Inversion: Should + subject + base verb."
+    },
+    {
+      "question": "If you ___ me, I would have appreciated it.",
+      "options": [
+        "had called",
+        "called",
+        "have called"
+      ],
+      "answer": "had called",
+      "explanation": "Third conditional: past perfect."
+    },
+    {
+      "question": "If he hadn’t overslept, he ___ the bus.",
+      "options": [
+        "would have caught",
+        "would catch",
+        "catches"
+      ],
+      "answer": "would have caught",
+      "explanation": "Third conditional result."
+    }
+  ]
+}

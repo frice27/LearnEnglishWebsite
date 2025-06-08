@@ -1,0 +1,155 @@
+{
+  "title": "Advanced Participle Clauses",
+  "questions": [
+    {
+      "question": "Having finished his work, ___ home.",
+      "options": [
+        "he went",
+        "he goes",
+        "he has gone"
+      ],
+      "answer": "he went",
+      "explanation": "Use the perfect participle to show one action was completed before another."
+    },
+    {
+      "question": "___ by the noise, she woke up suddenly.",
+      "options": [
+        "Frightened",
+        "Frightening",
+        "Frighten"
+      ],
+      "answer": "Frightened",
+      "explanation": "Past participle is used to describe a passive state or feeling."
+    },
+    {
+      "question": "___ the documents, she handed them to her boss.",
+      "options": [
+        "Signing",
+        "Signed",
+        "Having signed"
+      ],
+      "answer": "Having signed",
+      "explanation": "'Having signed' shows the action was completed before the next one."
+    },
+    {
+      "question": "The students, ___ by the long lecture, began to lose focus.",
+      "options": [
+        "tiring",
+        "tired",
+        "tire"
+      ],
+      "answer": "tired",
+      "explanation": "Use 'tired' as the students were affected by the lecture."
+    },
+    {
+      "question": "___ the opportunity, he immediately accepted the job.",
+      "options": [
+        "Given",
+        "Giving",
+        "Give"
+      ],
+      "answer": "Given",
+      "explanation": "'Given' is a past participle indicating the condition."
+    },
+    {
+      "question": "___ from a distance, the island looks deserted.",
+      "options": [
+        "Seen",
+        "Seeing",
+        "Saw"
+      ],
+      "answer": "Seen",
+      "explanation": "Past participle used in passive participle clause."
+    },
+    {
+      "question": "She sat at the desk, ___ her report.",
+      "options": [
+        "writing",
+        "written",
+        "writes"
+      ],
+      "answer": "writing",
+      "explanation": "Present participle is used to show simultaneous action."
+    },
+    {
+      "question": "The book, ___ in the 19th century, is still relevant today.",
+      "options": [
+        "written",
+        "writing",
+        "wrote"
+      ],
+      "answer": "written",
+      "explanation": "Past participle used to describe the book (passive)."
+    },
+    {
+      "question": "___ the weather, we decided to postpone the trip.",
+      "options": [
+        "Considering",
+        "Considered",
+        "Consider"
+      ],
+      "answer": "Considering",
+      "explanation": "Present participle used to explain reason."
+    },
+    {
+      "question": "___ all the evidence, the jury reached a verdict.",
+      "options": [
+        "Having examined",
+        "Examined",
+        "Examining"
+      ],
+      "answer": "Having examined",
+      "explanation": "'Having examined' shows completion of action before decision."
+    },
+    {
+      "question": "The children, ___ by the story, listened carefully.",
+      "options": [
+        "fascinated",
+        "fascinating",
+        "fascinate"
+      ],
+      "answer": "fascinated",
+      "explanation": "Past participle used for passive feeling."
+    },
+    {
+      "question": "He entered the room, ___ to say something.",
+      "options": [
+        "hesitating",
+        "hesitated",
+        "hesitate"
+      ],
+      "answer": "hesitating",
+      "explanation": "Present participle shows an ongoing action."
+    },
+    {
+      "question": "___ no other choice, she agreed to help.",
+      "options": [
+        "Having",
+        "Had",
+        "Has"
+      ],
+      "answer": "Having",
+      "explanation": "Perfect participle expressing condition."
+    },
+    {
+      "question": "___ his leg, he couldn\u2019t run the race.",
+      "options": [
+        "Injured",
+        "Injuring",
+        "Injure"
+      ],
+      "answer": "Injured",
+      "explanation": "Use past participle to describe a passive state."
+    },
+    {
+      "question": "He walked away, ___ to argue further.",
+      "options": [
+        "refusing",
+        "refused",
+        "refuse"
+      ],
+      "answer": "refusing",
+      "explanation": "Present participle describes action happening at the same time."
+    }
+  ]
+}

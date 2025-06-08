@@ -1,0 +1,95 @@
+{
+  "level": "A2",
+  "topics": [
+    {
+      "id": "present-perfect",
+      "title": "Present Perfect",
+      "description": "Learn how to use the present perfect tense for life experiences and actions.",
+      "lessonUrl": "grammar-topic.html?topic=present-perfect"
+    },
+    {
+      "id": "past-continuous",
+      "title": "Past Continuous",
+      "description": "Understand how to describe actions in progress in the past.",
+      "lessonUrl": "grammar-topic.html?topic=past-continuous"
+    },
+    {
+      "id": "future-forms",
+      "title": "Going to vs Will",
+      "description": "Learn the difference between 'going to' and 'will' for future actions.",
+      "lessonUrl": "grammar-topic.html?topic=future-forms"
+    },
+    {
+      "id": "comparatives-superlatives",
+      "title": "Comparatives and Superlatives",
+      "description": "Compare people, places, and things correctly.",
+      "lessonUrl": "grammar-topic.html?topic=comparatives-superlatives"
+    },
+    {
+      "id": "modals-should-must-have-to",
+      "title": "Modals: Must / Have to / Should",
+      "description": "Talk about obligation, advice and necessity.",
+      "lessonUrl": "grammar-topic.html?topic=modals-should-must-have-to"
+    },
+    {
+      "id": "first-conditional",
+      "title": "First Conditional",
+      "description": "Learn how to talk about real future possibilities.",
+      "lessonUrl": "grammar-topic.html?topic=first-conditional"
+    },
+    {
+      "id": "question-tags",
+      "title": "Question Tags",
+      "description": "Practice using short questions at the end of sentences.",
+      "lessonUrl": "grammar-topic.html?topic=question-tags"
+    },
+    {
+      "id": "too-enough",
+      "title": "Too / Enough",
+      "description": "Use 'too' and 'enough' to describe quantity and sufficiency.",
+      "lessonUrl": "grammar-topic.html?topic=too-enough"
+    },
+    {
+      "id": "adverbs",
+      "title": "Adverbs of Frequency and Manner",
+      "description": "Use adverbs to describe how and how often things happen.",
+      "lessonUrl": "grammar-topic.html?topic=adverbs"
+    },
+    {
+      "id": "gerunds-infinitives",
+      "title": "Gerunds and Infinitives",
+      "description": "Learn when to use -ing or to + verb.",
+      "lessonUrl": "grammar-topic.html?topic=gerunds-infinitives"
+    },
+    {
+      "id": "countable-uncountable",
+      "title": "Countable and Uncountable Nouns",
+      "description": "Distinguish between countable and uncountable nouns.",
+      "lessonUrl": "grammar-topic.html?topic=countable-uncountable"
+    },
+    {
+      "id": "much-many-lot",
+      "title": "Much / Many / A Lot of",
+      "description": "Use quantifiers correctly with nouns.",
+      "lessonUrl": "grammar-topic.html?topic=much-many-lot"
+    },
+    {
+      "id": "reflexive-pronouns",
+      "title": "Reflexive Pronouns",
+      "description": "Learn how to use myself, yourself, etc. correctly.",
+      "lessonUrl": "grammar-topic.html?topic=reflexive-pronouns"
+    },
+    {
+      "id": "relative-clauses",
+      "title": "Relative Clauses: Who / Which / That",
+      "description": "Connect ideas using relative pronouns.",
+      "lessonUrl": "grammar-topic.html?topic=relative-clauses"
+    },
+    {
+      "id": "zero-conditional",
+      "title": "Zero Conditional",
+      "description": "Talk about general truths and facts.",
+      "lessonUrl": "grammar-topic.html?topic=zero-conditional"
+    }
+  ]
+}

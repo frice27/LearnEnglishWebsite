@@ -1,0 +1,80 @@
+{
+  "title": "Countable and Uncountable Nouns Quiz",
+  "questions": [
+    {
+      "question": "We need some ___ for the recipe.",
+      "options": ["sugar", "sugars", "sugaries"],
+      "answer": "sugar"
+    },
+    {
+      "question": "There aren’t ___ apples left.",
+      "options": ["many", "much", "some"],
+      "answer": "many"
+    },
+    {
+      "question": "How ___ water do you drink every day?",
+      "options": ["much", "many", "few"],
+      "answer": "much"
+    },
+    {
+      "question": "I bought a few ___ of bread.",
+      "options": ["loaves", "breads", "bread"],
+      "answer": "loaves"
+    },
+    {
+      "question": "She has ___ friends in the city.",
+      "options": ["many", "much", "few"],
+      "answer": "many"
+    },
+    {
+      "question": "There isn’t ___ milk in the fridge.",
+      "options": ["any", "some", "many"],
+      "answer": "any"
+    },
+    {
+      "question": "___ cheese do we need?",
+      "options": ["How much", "How many", "What many"],
+      "answer": "How much"
+    },
+    {
+      "question": "We saw ___ birds in the park.",
+      "options": ["some", "any", "much"],
+      "answer": "some"
+    },
+    {
+      "question": "Can I have a glass of ___?",
+      "options": ["water", "waters", "a water"],
+      "answer": "water"
+    },
+    {
+      "question": "He ate two ___ for lunch.",
+      "options": ["sandwiches", "sandwich", "sandwichs"],
+      "answer": "sandwiches"
+    },
+    {
+      "question": "She doesn’t eat ___ rice.",
+      "options": ["much", "many", "few"],
+      "answer": "much"
+    },
+    {
+      "question": "We didn’t buy ___ eggs.",
+      "options": ["many", "much", "a lot"],
+      "answer": "many"
+    },
+    {
+      "question": "I need some ___ for the soup.",
+      "options": ["salt", "salts", "salted"],
+      "answer": "salt"
+    },
+    {
+      "question": "They brought ___ chairs to the garden.",
+      "options": ["several", "much", "a little"],
+      "answer": "several"
+    },
+    {
+      "question": "___ money do you have?",
+      "options": ["How much", "How many", "Which"],
+      "answer": "How much"
+    }
+  ]
+}

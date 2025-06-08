@@ -1,0 +1,80 @@
+{
+  "title": "Gerunds and Infinitives Quiz",
+  "questions": [
+    {
+      "question": "I enjoy ___ to music.",
+      "options": ["listening", "to listen", "listen"],
+      "answer": "listening"
+    },
+    {
+      "question": "She decided ___ abroad.",
+      "options": ["to study", "studying", "study"],
+      "answer": "to study"
+    },
+    {
+      "question": "They suggested ___ a picnic.",
+      "options": ["having", "to have", "have"],
+      "answer": "having"
+    },
+    {
+      "question": "He promised ___ me later.",
+      "options": ["to call", "calling", "call"],
+      "answer": "to call"
+    },
+    {
+      "question": "We finished ___ our homework.",
+      "options": ["doing", "to do", "do"],
+      "answer": "doing"
+    },
+    {
+      "question": "I want ___ a new phone.",
+      "options": ["to buy", "buying", "buy"],
+      "answer": "to buy"
+    },
+    {
+      "question": "She avoided ___ the question.",
+      "options": ["answering", "to answer", "answer"],
+      "answer": "answering"
+    },
+    {
+      "question": "He plans ___ a business.",
+      "options": ["to start", "starting", "start"],
+      "answer": "to start"
+    },
+    {
+      "question": "I can't stand ___ in traffic.",
+      "options": ["waiting", "to wait", "wait"],
+      "answer": "waiting"
+    },
+    {
+      "question": "We hope ___ the game.",
+      "options": ["to win", "winning", "win"],
+      "answer": "to win"
+    },
+    {
+      "question": "She enjoys ___ novels.",
+      "options": ["reading", "to read", "read"],
+      "answer": "reading"
+    },
+    {
+      "question": "They agreed ___ earlier.",
+      "options": ["to meet", "meeting", "meet"],
+      "answer": "to meet"
+    },
+    {
+      "question": "I don’t mind ___ the dishes.",
+      "options": ["doing", "to do", "do"],
+      "answer": "doing"
+    },
+    {
+      "question": "He refused ___ us.",
+      "options": ["to help", "helping", "help"],
+      "answer": "to help"
+    },
+    {
+      "question": "We discussed ___ a new teacher.",
+      "options": ["hiring", "to hire", "hire"],
+      "answer": "hiring"
+    }
+  ]
+}

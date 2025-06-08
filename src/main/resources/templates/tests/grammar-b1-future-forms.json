@@ -1,0 +1,95 @@
+{
+  "title": "Future Continuous and Future Perfect",
+  "questions": [
+    {
+      "question": "This time tomorrow, I ___ on the plane to Paris.",
+      "options": ["will be flying", "will fly", "fly"],
+      "answer": "will be flying",
+      "explanation": "Future Continuous: action in progress at a specific future time."
+    },
+    {
+      "question": "By next week, they ___ the house renovation.",
+      "options": ["will have finished", "will finish", "finished"],
+      "answer": "will have finished",
+      "explanation": "Future Perfect: completed before a future moment."
+    },
+    {
+      "question": "At 10 a.m., she ___ her exam.",
+      "options": ["will be taking", "will take", "takes"],
+      "answer": "will be taking",
+      "explanation": "Future Continuous: ongoing action at a time."
+    },
+    {
+      "question": "He ___ the book by the time you arrive.",
+      "options": ["will have read", "will read", "will be reading"],
+      "answer": "will have read",
+      "explanation": "Future Perfect: completed before another action."
+    },
+    {
+      "question": "They ___ dinner when we get there.",
+      "options": ["will be having", "will have had", "have"],
+      "answer": "will be having",
+      "explanation": "Future Continuous: action happening at arrival time."
+    },
+    {
+      "question": "By the end of this month, we ___ 10 tests.",
+      "options": ["will have taken", "will be taking", "will take"],
+      "answer": "will have taken",
+      "explanation": "Future Perfect: completed by a deadline."
+    },
+    {
+      "question": "This time next year, I ___ in Canada.",
+      "options": ["will be living", "will live", "lives"],
+      "answer": "will be living",
+      "explanation": "Future Continuous for long-term future situation."
+    },
+    {
+      "question": "He ___ the documents by the afternoon.",
+      "options": ["will have prepared", "will prepare", "prepares"],
+      "answer": "will have prepared",
+      "explanation": "Future Perfect — result completed by afternoon."
+    },
+    {
+      "question": "Tomorrow at 7 p.m., we ___ dinner.",
+      "options": ["will be eating", "eat", "have eaten"],
+      "answer": "will be eating",
+      "explanation": "Future Continuous: ongoing action."
+    },
+    {
+      "question": "By 2026, she ___ at the company for 10 years.",
+      "options": ["will have worked", "will be working", "works"],
+      "answer": "will have worked",
+      "explanation": "Future Perfect with time duration."
+    },
+    {
+      "question": "He ___ for 3 hours straight when you arrive.",
+      "options": ["will have been working", "will be working", "will work"],
+      "answer": "will have been working",
+      "explanation": "Future Perfect Continuous."
+    },
+    {
+      "question": "We ___ the city tour by the time it gets dark.",
+      "options": ["will have completed", "will complete", "will be completing"],
+      "answer": "will have completed",
+      "explanation": "Completed before another future point."
+    },
+    {
+      "question": "She ___ TV when you come home.",
+      "options": ["will be watching", "watches", "watch"],
+      "answer": "will be watching",
+      "explanation": "Future Continuous."
+    },
+    {
+      "question": "By next Monday, I ___ all my homework.",
+      "options": ["will have done", "will do", "do"],
+      "answer": "will have done",
+      "explanation": "Future Perfect for completed action."
+    },
+    {
+      "question": "At 8 a.m. tomorrow, he ___ to work.",
+      "options": ["will be driving", "drives", "will drive"],
+      "answer": "will be driving",
+      "explanation": "Future Continuous."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "level": "B1",
+  "topics": [
+    {
+      "id": "second-conditional",
+      "title": "Second Conditional",
+      "description": "Talk about imaginary situations in the present or future.",
+      "lessonUrl": "grammar-topic.html?topic=second-conditional"
+    },
+    {
+      "id": "present-perfect-continuous",
+      "title": "Present Perfect Continuous",
+      "description": "Describe actions that started in the past and continue now or recently stopped.",
+      "lessonUrl": "grammar-topic.html?topic=present-perfect-continuous"
+    },
+    {
+      "id": "past-perfect",
+      "title": "Past Perfect",
+      "description": "Talk about actions completed before another action in the past.",
+      "lessonUrl": "grammar-topic.html?topic=past-perfect"
+    },
+    {
+      "id": "reported-questions",
+      "title": "Reported Questions",
+      "description": "Learn how to report questions correctly.",
+      "lessonUrl": "grammar-topic.html?topic=reported-questions"
+    },
+    {
+      "id": "passive-voice",
+      "title": "Passive Voice",
+      "description": "Use passive forms in present, past and future tenses.",
+      "lessonUrl": "grammar-topic.html?topic=passive-voice"
+    },
+    {
+      "id": "modals-of-deduction",
+      "title": "Modals of Deduction",
+      "description": "Use must, might, can't to express logical conclusions.",
+      "lessonUrl": "grammar-topic.html?topic=modals-of-deduction"
+    },
+    {
+      "id": "wishes-if-only",
+      "title": "Wishes and If only",
+      "description": "Express regrets or unreal past situations.",
+      "lessonUrl": "grammar-topic.html?topic=wishes-if-only"
+    },
+    {
+      "id": "gerunds-infinitives",
+      "title": "Gerunds vs Infinitives (Advanced)",
+      "description": "Understand when to use gerunds or infinitives in complex cases.",
+      "lessonUrl": "grammar-topic.html?topic=gerunds-infinitives"
+    },
+    {
+      "id": "used-to",
+      "title": "Used to / Be used to / Get used to",
+      "description": "Talk about habits, past states and adapting to new things.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1-used-to"
+    },
+    {
+      "id": "question-tags",
+      "title": "Question Tags",
+      "description": "Use tag questions correctly and naturally.",
+      "lessonUrl": "grammar-topic.html?topic=question-tags"
+    },
+    {
+      "id": "grammar-b1-future-forms",
+      "title": "Future Continuous and Future Perfect",
+      "description": "Understand how to talk about actions in progress or completed at a future time.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1-future-forms"
+    },
+    {
+      "id": "mixed-conditionals",
+      "title": "Mixed Conditionals",
+      "description": "Combine different time references in conditional sentences.",
+      "lessonUrl": "grammar-topic.html?topic=grammar-b1-mixed-conditionals"
+    }
+  ]
+}

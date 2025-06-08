@@ -1,0 +1,95 @@
+{
+  "title": "Past Perfect",
+  "questions": [
+    {
+      "question": "She ___ already left when I arrived.",
+      "options": ["has", "had", "was"],
+      "answer": "had",
+      "explanation": "Use 'had + past participle' for the past perfect tense."
+    },
+    {
+      "question": "We ___ eaten before they came.",
+      "options": ["had", "have", "were"],
+      "answer": "had",
+      "explanation": "'Had eaten' is past perfect — it shows an action completed before another past action."
+    },
+    {
+      "question": "By the time he arrived, they ___ started the meeting.",
+      "options": ["have", "had", "was"],
+      "answer": "had",
+      "explanation": "The meeting started before he arrived, so use past perfect."
+    },
+    {
+      "question": "I didn’t go to the cinema because I ___ seen the movie.",
+      "options": ["had", "have", "was"],
+      "answer": "had",
+      "explanation": "Use past perfect to show the movie was seen before the decision."
+    },
+    {
+      "question": "They ___ finished the test before the bell rang.",
+      "options": ["had", "have", "were"],
+      "answer": "had",
+      "explanation": "Use 'had finished' for completed past action."
+    },
+    {
+      "question": "He ___ never flown in a plane before the trip.",
+      "options": ["has", "had", "was"],
+      "answer": "had",
+      "explanation": "'Had never flown' is past perfect — for experience before a specific time."
+    },
+    {
+      "question": "We were tired because we ___ worked all day.",
+      "options": ["had", "have", "were"],
+      "answer": "had",
+      "explanation": "Past perfect explains the reason for tiredness."
+    },
+    {
+      "question": "They ___ not visited Paris before their honeymoon.",
+      "options": ["had", "have", "were"],
+      "answer": "had",
+      "explanation": "Negative past perfect uses 'had not' + verb3."
+    },
+    {
+      "question": "___ you ever tried sushi before that night?",
+      "options": ["Had", "Have", "Did"],
+      "answer": "Had",
+      "explanation": "'Had you' is correct in past perfect questions."
+    },
+    {
+      "question": "He ___ forgotten my birthday.",
+      "options": ["had", "has", "did"],
+      "answer": "had",
+      "explanation": "Past perfect: 'had forgotten'."
+    },
+    {
+      "question": "I ___ my homework before dinner.",
+      "options": ["had finished", "finished", "was finishing"],
+      "answer": "had finished",
+      "explanation": "'Had finished' shows completion before another past action."
+    },
+    {
+      "question": "She ___ seen that film before we watched it together.",
+      "options": ["had", "has", "was"],
+      "answer": "had",
+      "explanation": "'Had seen' indicates she saw it earlier."
+    },
+    {
+      "question": "They ___ left the restaurant before we arrived.",
+      "options": ["had", "have", "were"],
+      "answer": "had",
+      "explanation": "The leaving happened before the arrival."
+    },
+    {
+      "question": "He didn’t know we ___ moved.",
+      "options": ["had", "have", "was"],
+      "answer": "had",
+      "explanation": "Past perfect is used to show we moved before he knew."
+    },
+    {
+      "question": "She ___ never heard of that singer.",
+      "options": ["had", "has", "was"],
+      "answer": "had",
+      "explanation": "Past perfect for something unknown before a point in the past."
+    }
+  ]
+}

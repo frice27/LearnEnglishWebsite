@@ -1,0 +1,80 @@
+{
+  "title": "Modals and Imperative Quiz",
+  "questions": [
+    {
+      "question": "You ___ speak louder. I can't hear you.",
+      "options": ["must", "can", "should"],
+      "answer": "should"
+    },
+    {
+      "question": "___ your homework before dinner.",
+      "options": ["Do", "Doing", "Did"],
+      "answer": "Do"
+    },
+    {
+      "question": "He ___ drive a car.",
+      "options": ["can", "must", "should"],
+      "answer": "can"
+    },
+    {
+      "question": "You ___ eat more vegetables. They're healthy.",
+      "options": ["should", "must", "can"],
+      "answer": "should"
+    },
+    {
+      "question": "Don’t ___ in the classroom.",
+      "options": ["run", "ran", "running"],
+      "answer": "run"
+    },
+    {
+      "question": "___ quiet, please.",
+      "options": ["Be", "Is", "Are"],
+      "answer": "Be"
+    },
+    {
+      "question": "You ___ bring your book to class.",
+      "options": ["must", "can", "may"],
+      "answer": "must"
+    },
+    {
+      "question": "He ___ come to the party if he wants.",
+      "options": ["can", "must", "should"],
+      "answer": "can"
+    },
+    {
+      "question": "___ forget your keys!",
+      "options": ["Don’t", "Didn’t", "No"],
+      "answer": "Don’t"
+    },
+    {
+      "question": "You ___ be late for school.",
+      "options": ["mustn't", "should", "can"],
+      "answer": "mustn't"
+    },
+    {
+      "question": "Let’s ___ to the park.",
+      "options": ["go", "goes", "going"],
+      "answer": "go"
+    },
+    {
+      "question": "Please ___ your name here.",
+      "options": ["write", "writes", "wrote"],
+      "answer": "write"
+    },
+    {
+      "question": "You ___ help your parents at home.",
+      "options": ["should", "can", "could"],
+      "answer": "should"
+    },
+    {
+      "question": "He ___ wear a uniform at school.",
+      "options": ["has to", "have to", "had to"],
+      "answer": "has to"
+    },
+    {
+      "question": "___ open the window.",
+      "options": ["Please", "Do", "Be"],
+      "answer": "Please"
+    }
+  ]
+}

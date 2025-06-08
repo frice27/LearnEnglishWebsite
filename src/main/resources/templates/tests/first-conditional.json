@@ -1,0 +1,80 @@
+{
+  "title": "First Conditional Quiz",
+  "questions": [
+    {
+      "question": "If it rains, we ___ stay at home.",
+      "options": ["will", "would", "are"],
+      "answer": "will"
+    },
+    {
+      "question": "She will be angry if you ___ late.",
+      "options": ["are", "were", "will be"],
+      "answer": "are"
+    },
+    {
+      "question": "If I pass the test, I ___ celebrate.",
+      "options": ["will", "would", "can"],
+      "answer": "will"
+    },
+    {
+      "question": "They ___ come if they have time.",
+      "options": ["will", "would", "are going"],
+      "answer": "will"
+    },
+    {
+      "question": "If he studies hard, he ___ the exam.",
+      "options": ["will pass", "passes", "passed"],
+      "answer": "will pass"
+    },
+    {
+      "question": "If we ___ now, we’ll catch the train.",
+      "options": ["leave", "left", "leaving"],
+      "answer": "leave"
+    },
+    {
+      "question": "What ___ you do if she says yes?",
+      "options": ["will", "do", "would"],
+      "answer": "will"
+    },
+    {
+      "question": "If you don’t hurry, you ___ miss the bus.",
+      "options": ["will", "would", "are"],
+      "answer": "will"
+    },
+    {
+      "question": "I ___ help you if I have time.",
+      "options": ["will", "would", "can"],
+      "answer": "will"
+    },
+    {
+      "question": "If she ___ the weather, she won’t go out.",
+      "options": ["hates", "hate", "will hate"],
+      "answer": "hates"
+    },
+    {
+      "question": "He ___ fail if he doesn’t study.",
+      "options": ["will", "would", "does"],
+      "answer": "will"
+    },
+    {
+      "question": "If we go now, we ___ be on time.",
+      "options": ["will", "can", "are"],
+      "answer": "will"
+    },
+    {
+      "question": "If you ___ enough sleep, you will feel better.",
+      "options": ["get", "got", "will get"],
+      "answer": "get"
+    },
+    {
+      "question": "She will be upset if you ___ her party.",
+      "options": ["miss", "misses", "missed"],
+      "answer": "miss"
+    },
+    {
+      "question": "If I ___ hungry, I will eat something.",
+      "options": ["am", "was", "will be"],
+      "answer": "am"
+    }
+  ]
+}

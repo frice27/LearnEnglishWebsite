@@ -1,0 +1,95 @@
+{
+  "title": "Causative: Have / Get something done",
+  "questions": [
+    {
+      "question": "I had my car ___ yesterday.",
+      "options": ["washed", "wash", "washing"],
+      "answer": "washed",
+      "explanation": "We use the past participle with 'have something done'."
+    },
+    {
+      "question": "She will get her hair ___ for the wedding.",
+      "options": ["done", "do", "doing"],
+      "answer": "done",
+      "explanation": "Future + 'get something done' + past participle."
+    },
+    {
+      "question": "We are having our house ___.",
+      "options": ["painted", "paint", "painting"],
+      "answer": "painted",
+      "explanation": "Present Continuous + causative + past participle."
+    },
+    {
+      "question": "He had the documents ___ by a lawyer.",
+      "options": ["checked", "check", "checking"],
+      "answer": "checked",
+      "explanation": "'Have something done' + past participle."
+    },
+    {
+      "question": "They got their car ___ last week.",
+      "options": ["repaired", "repair", "repairing"],
+      "answer": "repaired",
+      "explanation": "'Get something done' for informal causative."
+    },
+    {
+      "question": "I'm going to have my phone ___.",
+      "options": ["fixed", "fix", "fixing"],
+      "answer": "fixed",
+      "explanation": "'Have + object + past participle' is used in plans too."
+    },
+    {
+      "question": "Did you get your laptop ___?",
+      "options": ["repaired", "repairing", "repair"],
+      "answer": "repaired",
+      "explanation": "Past simple question in causative form."
+    },
+    {
+      "question": "She’s having her nails ___.",
+      "options": ["done", "doing", "do"],
+      "answer": "done",
+      "explanation": "'Have' in present continuous + past participle."
+    },
+    {
+      "question": "They had their garden ___ by a professional.",
+      "options": ["redesigned", "redesign", "redesigning"],
+      "answer": "redesigned",
+      "explanation": "Past perfect causative with 'had + object + past participle'."
+    },
+    {
+      "question": "We will get the air conditioning ___ before summer.",
+      "options": ["installed", "installing", "install"],
+      "answer": "installed",
+      "explanation": "Future + get + object + past participle."
+    },
+    {
+      "question": "She got her essay ___ by her friend.",
+      "options": ["proofread", "proofreading", "proofreads"],
+      "answer": "proofread",
+      "explanation": "Causative with 'got + object + past participle'."
+    },
+    {
+      "question": "He’s getting his suit ___ for the event.",
+      "options": ["cleaned", "clean", "cleans"],
+      "answer": "cleaned",
+      "explanation": "Present Continuous Causative structure."
+    },
+    {
+      "question": "Have you had your phone ___ yet?",
+      "options": ["replaced", "replacing", "replace"],
+      "answer": "replaced",
+      "explanation": "Present Perfect + 'have something done'."
+    },
+    {
+      "question": "They got the pipes ___ after the leak.",
+      "options": ["fixed", "fix", "fixing"],
+      "answer": "fixed",
+      "explanation": "'Get + object + past participle' to describe work done."
+    },
+    {
+      "question": "I had the photo ___ into a frame.",
+      "options": ["put", "puts", "putting"],
+      "answer": "put",
+      "explanation": "'Put' is the past participle used in causative here."
+    }
+  ]
+}

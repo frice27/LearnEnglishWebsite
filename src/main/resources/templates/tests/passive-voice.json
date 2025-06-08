@@ -1,0 +1,95 @@
+{
+  "title": "Passive Voice (Present, Past, Future)",
+  "questions": [
+    {
+      "question": "The letter ___ by the secretary every day.",
+      "options": ["is written", "was written", "writes"],
+      "answer": "is written",
+      "explanation": "Present Simple Passive: is/are + past participle."
+    },
+    {
+      "question": "The house ___ in 1990.",
+      "options": ["was built", "is built", "has been built"],
+      "answer": "was built",
+      "explanation": "Past Simple Passive: was/were + past participle."
+    },
+    {
+      "question": "A new school ___ next year.",
+      "options": ["will be opened", "is opened", "was opened"],
+      "answer": "will be opened",
+      "explanation": "Future Simple Passive: will be + past participle."
+    },
+    {
+      "question": "The books ___ by the teacher now.",
+      "options": ["are being checked", "were checked", "is checked"],
+      "answer": "are being checked",
+      "explanation": "Present Continuous Passive: is/are being + past participle."
+    },
+    {
+      "question": "The report ___ already ___.",
+      "options": ["has been finished", "was finished", "is finishing"],
+      "answer": "has been finished",
+      "explanation": "Present Perfect Passive: has/have been + past participle."
+    },
+    {
+      "question": "Many emails ___ yesterday.",
+      "options": ["were sent", "are sent", "was sent"],
+      "answer": "were sent",
+      "explanation": "Past Simple Passive with plural subject."
+    },
+    {
+      "question": "The floor ___ right now.",
+      "options": ["is being cleaned", "was being cleaned", "has been cleaned"],
+      "answer": "is being cleaned",
+      "explanation": "Present Continuous Passive form."
+    },
+    {
+      "question": "This song ___ by the Beatles.",
+      "options": ["was written", "is written", "writes"],
+      "answer": "was written",
+      "explanation": "Use Past Simple Passive for completed past actions."
+    },
+    {
+      "question": "The windows ___ tomorrow.",
+      "options": ["will be cleaned", "are cleaned", "cleaned"],
+      "answer": "will be cleaned",
+      "explanation": "Future Passive: will be + past participle."
+    },
+    {
+      "question": "The museum ___ every Monday.",
+      "options": ["is closed", "was closed", "has been closed"],
+      "answer": "is closed",
+      "explanation": "Present Simple Passive for regular actions."
+    },
+    {
+      "question": "All the cakes ___ by Anna.",
+      "options": ["were made", "are making", "is made"],
+      "answer": "were made",
+      "explanation": "Past Simple Passive with plural object."
+    },
+    {
+      "question": "The parcel ___ yet.",
+      "options": ["has not been delivered", "was not delivered", "isn't delivered"],
+      "answer": "has not been delivered",
+      "explanation": "Present Perfect Passive in negative form."
+    },
+    {
+      "question": "The documents ___ at the moment.",
+      "options": ["are being prepared", "were prepared", "are prepared"],
+      "answer": "are being prepared",
+      "explanation": "Present Continuous Passive."
+    },
+    {
+      "question": "Lunch ___ by Grandma tomorrow.",
+      "options": ["will be cooked", "is cooked", "was cooked"],
+      "answer": "will be cooked",
+      "explanation": "Future Passive with 'will be'."
+    },
+    {
+      "question": "The room ___ when I arrived.",
+      "options": ["was being cleaned", "is being cleaned", "has been cleaned"],
+      "answer": "was being cleaned",
+      "explanation": "Past Continuous Passive: was/were being + past participle."
+    }
+  ]
+}

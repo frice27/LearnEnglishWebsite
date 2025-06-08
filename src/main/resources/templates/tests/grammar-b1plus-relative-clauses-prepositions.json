@@ -1,0 +1,95 @@
+{
+  "title": "Relative Clauses with Prepositions",
+  "questions": [
+    {
+      "question": "The person ___ I spoke to was very helpful.",
+      "options": ["who", "to whom", "which"],
+      "answer": "to whom",
+      "explanation": "When the preposition comes before the relative pronoun, use 'to whom'."
+    },
+    {
+      "question": "The book ___ I told you about is on the table.",
+      "options": ["which", "about which", "that"],
+      "answer": "about which",
+      "explanation": "Formal style: preposition before the relative pronoun."
+    },
+    {
+      "question": "The man ___ she was dancing with is her brother.",
+      "options": ["who", "with whom", "whom"],
+      "answer": "with whom",
+      "explanation": "Formal: 'with whom' is used instead of ending the sentence with a preposition."
+    },
+    {
+      "question": "The company ___ I applied to hasn't responded yet.",
+      "options": ["to which", "which", "that"],
+      "answer": "to which",
+      "explanation": "Formal written English uses 'to which' instead of ending with a preposition."
+    },
+    {
+      "question": "The woman ___ desk is next to mine is very kind.",
+      "options": ["whose", "who", "which"],
+      "answer": "whose",
+      "explanation": "'Whose' is used to show possession."
+    },
+    {
+      "question": "The place ___ we stayed during vacation was lovely.",
+      "options": ["in which", "where", "which"],
+      "answer": "in which",
+      "explanation": "'In which' is used formally to replace 'where'."
+    },
+    {
+      "question": "The man ___ you borrowed the book from is a professor.",
+      "options": ["from whom", "who", "which"],
+      "answer": "from whom",
+      "explanation": "Use 'from whom' to keep formal word order."
+    },
+    {
+      "question": "The project ___ she is responsible for won an award.",
+      "options": ["for which", "which", "that"],
+      "answer": "for which",
+      "explanation": "In formal use, 'for which' is preferred over 'which... for'."
+    },
+    {
+      "question": "The company ___ he works at is international.",
+      "options": ["at which", "which", "where"],
+      "answer": "at which",
+      "explanation": "Formal: use 'at which' for the company he works at."
+    },
+    {
+      "question": "The job ___ she applied for was already taken.",
+      "options": ["for which", "which", "that"],
+      "answer": "for which",
+      "explanation": "'For which' is correct for formal written English."
+    },
+    {
+      "question": "The table ___ we usually sit at is near the window.",
+      "options": ["at which", "which", "where"],
+      "answer": "at which",
+      "explanation": "'At which' is the formal alternative to ending the clause with a preposition."
+    },
+    {
+      "question": "The man ___ car was stolen reported it to the police.",
+      "options": ["whose", "who", "which"],
+      "answer": "whose",
+      "explanation": "'Whose' is used for possession, even with objects."
+    },
+    {
+      "question": "The person ___ she was waiting for arrived late.",
+      "options": ["for whom", "whom", "that"],
+      "answer": "for whom",
+      "explanation": "'For whom' is the formal alternative to 'who... for'."
+    },
+    {
+      "question": "The hotel ___ we stayed in was luxurious.",
+      "options": ["in which", "which", "where"],
+      "answer": "in which",
+      "explanation": "'In which' is formal and equivalent to 'where'."
+    },
+    {
+      "question": "The teacher ___ opinion I respect the most is Mr. Smith.",
+      "options": ["whose", "who", "whom"],
+      "answer": "whose",
+      "explanation": "'Whose' is the correct possessive form for people."
+    }
+  ]
+}

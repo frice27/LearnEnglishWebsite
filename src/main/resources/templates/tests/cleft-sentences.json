@@ -1,0 +1,105 @@
+{
+  "title": "Cleft Sentences",
+  "questions": [
+    {
+      "question": "___ I need is a good night’s sleep.",
+      "options": [
+        "What",
+        "That",
+        "Which"
+      ],
+      "answer": "What",
+      "explanation": "Cleft sentences often start with 'What' to emphasize."
+    },
+    {
+      "question": "It was Sarah ___ won the prize.",
+      "options": [
+        "who",
+        "which",
+        "that"
+      ],
+      "answer": "who",
+      "explanation": "Use 'who' for people in cleft structures."
+    },
+    {
+      "question": "It is the food ___ I miss the most about home.",
+      "options": [
+        "what",
+        "that",
+        "which"
+      ],
+      "answer": "that",
+      "explanation": "Use 'that' in cleft sentences after nouns."
+    },
+    {
+      "question": "What he dislikes is ___ late.",
+      "options": [
+        "being",
+        "be",
+        "been"
+      ],
+      "answer": "being",
+      "explanation": "'What' is followed by a clause; use gerund for subject function."
+    },
+    {
+      "question": "It was in Paris ___ they met for the first time.",
+      "options": [
+        "where",
+        "that",
+        "which"
+      ],
+      "answer": "that",
+      "explanation": "Use 'that' to introduce cleft sentences."
+    },
+    {
+      "question": "___ she said shocked everyone.",
+      "options": [
+        "What",
+        "That",
+        "Which"
+      ],
+      "answer": "What",
+      "explanation": "'What' clauses can be subjects in cleft sentences."
+    },
+    {
+      "question": "It was the weather ___ ruined our plans.",
+      "options": [
+        "what",
+        "that",
+        "which"
+      ],
+      "answer": "that",
+      "explanation": "'That' introduces the emphasized part in cleft structures."
+    },
+    {
+      "question": "What we need is ___ action, not words.",
+      "options": [
+        "real",
+        "really",
+        "reality"
+      ],
+      "answer": "real",
+      "explanation": "Adjective 'real' describes the noun 'action'."
+    },
+    {
+      "question": "It was John ___ told me the news.",
+      "options": [
+        "which",
+        "who",
+        "that"
+      ],
+      "answer": "who",
+      "explanation": "Use 'who' for people when emphasizing subject in cleft sentence."
+    },
+    {
+      "question": "___ surprised me was her reaction.",
+      "options": [
+        "What",
+        "That",
+        "Which"
+      ],
+      "answer": "What",
+      "explanation": "Use 'What' to introduce a subject clause."
+    }
+  ]
+}

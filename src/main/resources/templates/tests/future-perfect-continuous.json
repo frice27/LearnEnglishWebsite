@@ -1,0 +1,105 @@
+{
+  "title": "Future Perfect Continuous",
+  "questions": [
+    {
+      "question": "By next month, she ___ for the company for 10 years.",
+      "options": [
+        "will have been working",
+        "will be working",
+        "has worked"
+      ],
+      "answer": "will have been working",
+      "explanation": "Use 'will have been + verb-ing' for Future Perfect Continuous."
+    },
+    {
+      "question": "He ___ the project for hours by the time we arrive.",
+      "options": [
+        "will have been discussing",
+        "will be discussed",
+        "has been discussing"
+      ],
+      "answer": "will have been discussing",
+      "explanation": "Use future perfect continuous to show duration before a future moment."
+    },
+    {
+      "question": "They ___ the house for a year by the end of this month.",
+      "options": [
+        "will have been building",
+        "build",
+        "will build"
+      ],
+      "answer": "will have been building",
+      "explanation": "Future Perfect Continuous emphasizes ongoing action before a future point."
+    },
+    {
+      "question": "By next year, I ___ English for five years.",
+      "options": [
+        "will have been studying",
+        "will study",
+        "am studying"
+      ],
+      "answer": "will have been studying",
+      "explanation": "It’s the correct structure for expressing the future duration."
+    },
+    {
+      "question": "She ___ the same routine for a decade by the time she retires.",
+      "options": [
+        "will have been following",
+        "follows",
+        "will follow"
+      ],
+      "answer": "will have been following",
+      "explanation": "Use Future Perfect Continuous to express how long something will have been happening."
+    },
+    {
+      "question": "Next month, they ___ their campaign for six months.",
+      "options": [
+        "will have been running",
+        "have run",
+        "will be running"
+      ],
+      "answer": "will have been running",
+      "explanation": "Use Future Perfect Continuous to show duration before a specific time in future."
+    },
+    {
+      "question": "He ___ his thesis for more than a year by December.",
+      "options": [
+        "will have been writing",
+        "writes",
+        "has written"
+      ],
+      "answer": "will have been writing",
+      "explanation": "Correct tense for an action continuing until a point in the future."
+    },
+    {
+      "question": "We ___ this game for hours by the time you join us.",
+      "options": [
+        "will have been playing",
+        "will be playing",
+        "played"
+      ],
+      "answer": "will have been playing",
+      "explanation": "This expresses an ongoing action up to a future moment."
+    },
+    {
+      "question": "By the time he gets home, she ___ for hours.",
+      "options": [
+        "will have been waiting",
+        "waits",
+        "has waited"
+      ],
+      "answer": "will have been waiting",
+      "explanation": "Future Perfect Continuous shows the duration until the future event."
+    },
+    {
+      "question": "You ___ the report for weeks by the submission deadline.",
+      "options": [
+        "will have been preparing",
+        "prepare",
+        "will prepare"
+      ],
+      "answer": "will have been preparing",
+      "explanation": "Use 'will have been + verb-ing' to show how long something will continue until a specific point."
+    }
+  ]
+}

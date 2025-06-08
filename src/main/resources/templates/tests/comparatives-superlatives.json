@@ -1,0 +1,80 @@
+{
+  "title": "Comparatives and Superlatives Quiz",
+  "questions": [
+    {
+      "question": "John is ___ than his brother.",
+      "options": ["taller", "more tall", "tallest"],
+      "answer": "taller"
+    },
+    {
+      "question": "This is the ___ movie I’ve ever seen.",
+      "options": ["worst", "worse", "bad"],
+      "answer": "worst"
+    },
+    {
+      "question": "Your car is ___ than mine.",
+      "options": ["faster", "fastest", "more fast"],
+      "answer": "faster"
+    },
+    {
+      "question": "This restaurant is ___ than the other one.",
+      "options": ["more expensive", "expensiver", "expensive"],
+      "answer": "more expensive"
+    },
+    {
+      "question": "She is the ___ student in our class.",
+      "options": ["best", "better", "good"],
+      "answer": "best"
+    },
+    {
+      "question": "My house is ___ than yours.",
+      "options": ["bigger", "more big", "biggest"],
+      "answer": "bigger"
+    },
+    {
+      "question": "This was the ___ day of my life!",
+      "options": ["happiest", "more happy", "happy"],
+      "answer": "happiest"
+    },
+    {
+      "question": "Today is ___ than yesterday.",
+      "options": ["colder", "coldest", "more cold"],
+      "answer": "colder"
+    },
+    {
+      "question": "This book is ___ than the last one.",
+      "options": ["more interesting", "interestinger", "most interesting"],
+      "answer": "more interesting"
+    },
+    {
+      "question": "Mount Everest is the ___ mountain in the world.",
+      "options": ["highest", "higher", "more high"],
+      "answer": "highest"
+    },
+    {
+      "question": "She sings ___ than her sister.",
+      "options": ["better", "more well", "good"],
+      "answer": "better"
+    },
+    {
+      "question": "Tom is ___ than Jerry.",
+      "options": ["stronger", "more strong", "strongest"],
+      "answer": "stronger"
+    },
+    {
+      "question": "That was the ___ exam I’ve ever taken.",
+      "options": ["easiest", "easier", "easy"],
+      "answer": "easiest"
+    },
+    {
+      "question": "London is ___ than my hometown.",
+      "options": ["larger", "more large", "largest"],
+      "answer": "larger"
+    },
+    {
+      "question": "This is the ___ hotel in the area.",
+      "options": ["most expensive", "expensivest", "more expensive"],
+      "answer": "most expensive"
+    }
+  ]
+}
